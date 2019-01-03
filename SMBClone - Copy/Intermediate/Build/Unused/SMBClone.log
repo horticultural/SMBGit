@@ -1,0 +1,58 @@
+﻿  Cleaning SMBCloneEditor Binaries...
+  Using 'git status' to determine working set for adaptive non-unity build.
+  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for SMBCloneEditor (no existing makefile)
+  Performing full C++ include scan (no include cache file)
+  Parsing headers for SMBCloneEditor
+    Running UnrealHeaderTool "Z:\SMBClone\SMBClone.uproject" "Z:\SMBClone\Intermediate\Build\Win64\SMBCloneEditor\Development\SMBCloneEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for SMBCloneEditor in 8.7275734 seconds
+  Deleting old hot reload file: "Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-1084.dll".
+  Deleting old hot reload file: "Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-1084.pdb".
+  Deleting old hot reload file: "Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-1146.dll".
+  Deleting old hot reload file: "Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-1146.pdb".
+  Deleting old hot reload file: "Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-3911.dll".
+  Deleting old hot reload file: "Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-3911.pdb".
+  Deleting old hot reload file: "Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-4098.dll".
+  Deleting old hot reload file: "Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-4098.pdb".
+  Deleting old hot reload file: "Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-4498.dll".
+  Deleting old hot reload file: "Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-4498.pdb".
+  Deleting old hot reload file: "Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-4824.dll".
+  Deleting old hot reload file: "Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-4824.pdb".
+  Deleting old hot reload file: "Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-5018.dll".
+  Deleting old hot reload file: "Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-5018.pdb".
+  Deleting old hot reload file: "Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-6404.dll".
+  Deleting old hot reload file: "Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-6404.pdb".
+  Deleting old hot reload file: "Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-6691.dll".
+  Deleting old hot reload file: "Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-6691.pdb".
+  Deleting old hot reload file: "Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-7746.dll".
+  Deleting old hot reload file: "Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-7746.pdb".
+  Deleting old hot reload file: "Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-8911.dll".
+  Deleting old hot reload file: "Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-8911.pdb".
+  Performing 23 actions (4 in parallel)
+  [3/23] Resource ModuleVersionResource.rc.inl
+  [2/23] Resource PCLaunch.rc
+  SharedPCH.Engine.cpp
+  Bumper.gen.cpp
+  Ball.gen.cpp
+  CameraRotatingComponent.gen.cpp
+  JumpPad.gen.cpp
+  BumpComponent.gen.cpp
+  BallMovementComponent.gen.cpp
+  BallSpringArmComponent.gen.cpp
+  JumpPad.cpp
+  CameraRotatingComponent.cpp
+  Bumper.cpp
+  BumpComponent.cpp
+  BallSpringArmComponent.cpp
+  Ball.cpp
+  BallMovementComponent.cpp
+  SMBCloneGameModeBase.cpp
+  SMBClone.cpp
+  SMBClone.init.gen.cpp
+  SMBCloneGameModeBase.gen.cpp
+  [22/23] Link UE4Editor-SMBClone.dll
+  [23/23] Link UE4Editor-SMBClone.lib
+     Creating library Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone.lib and object Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone.exp
+     Creating library Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone.suppressed.lib and object Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone.suppressed.exp
+  Deploying SMBCloneEditor Win64 Development...
+  Total build time: 60.76 seconds (Local executor: 45.38 seconds)

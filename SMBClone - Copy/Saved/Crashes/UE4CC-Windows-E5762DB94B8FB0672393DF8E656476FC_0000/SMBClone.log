@@ -1,0 +1,1579 @@
+﻿Log file open, 11/16/18 08:49:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SMBClone
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1328240390) SRandInit(-1328240390).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.282173
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.195s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../SMBClone/Binaries/Win64/UE4Editor-SMBClone-1022.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-PHNNL2F (192.168.0.126:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: Z:/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.16-08.49.24:449][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.16-08.49.24:449][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.16-08.49.24:475][  0]LogInit: Computer: DESKTOP-PHNNL2F
+[2018.11.16-08.49.24:475][  0]LogInit: User: Jason
+[2018.11.16-08.49.24:475][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.16-08.49.24:475][  0]LogInit: High frequency timer resolution =2.435780 MHz
+[2018.11.16-08.49.24:476][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.16-08.49.24:476][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.16-08.49.24:476][  0]LogMemory: Process Physical Memory: 274.02 MB used, 274.02 MB peak
+[2018.11.16-08.49.24:476][  0]LogMemory: Process Virtual Memory: 264.77 MB used, 264.77 MB peak
+[2018.11.16-08.49.24:476][  0]LogMemory: Physical Memory: 5077.35 MB used,  11182.91 MB free, 16260.26 MB total
+[2018.11.16-08.49.24:476][  0]LogMemory: Virtual Memory: 4790.48 MB used,  11182.91 MB free, 134217728.00 MB total
+[2018.11.16-08.49.24:500][  0]LogInit: Using OS detected language (en-US).
+[2018.11.16-08.49.24:500][  0]LogInit: Using OS detected locale (en-GB).
+[2018.11.16-08.49.24:504][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.16-08.49.24:925][  0]LogStreaming: Display: Took  0.426s to EndInitTextLocalization.
+[2018.11.16-08.49.24:925][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.16-08.49.24:953][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.16-08.49.24:953][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.16-08.49.25:156][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.16-08.49.25:163][  0]LogD3D11RHI:    0. 'Intel(R) Iris(TM) Pro Graphics 5200' (Feature Level 11_0)
+[2018.11.16-08.49.25:163][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.11.16-08.49.25:165][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.16-08.49.25:165][  0]LogD3D11RHI:       0/0/8130 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.16-08.49.25:165][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.16-08.49.25:172][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.16-08.49.25:172][  0]LogD3D11RHI:     GPU DeviceId: 0xd26 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.16-08.49.25:172][  0]LogWindows: EnumDisplayDevices:
+[2018.11.16-08.49.25:173][  0]LogWindows:    0. 'Intel(R) Iris(TM) Pro Graphics 5200' (P:1 D:1)
+[2018.11.16-08.49.25:173][  0]LogWindows:    1. 'Intel(R) Iris(TM) Pro Graphics 5200' (P:0 D:0)
+[2018.11.16-08.49.25:173][  0]LogWindows:    2. 'Intel(R) Iris(TM) Pro Graphics 5200' (P:0 D:0)
+[2018.11.16-08.49.25:173][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.16-08.49.25:173][  0]LogD3D11RHI:     Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+[2018.11.16-08.49.25:173][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.16-08.49.25:173][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.16-08.49.25:173][  0]LogRHI: Texture pool is 795 MB (70% of 1136 MB)
+[2018.11.16-08.49.25:178][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.16-08.49.25:185][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2018.11.16-08.49.25:186][  0]LogShaderCompilers: Guid format shader working directory is 27 characters bigger than the processId version (../../../../SMBClone/Intermediate/Shaders/WorkingDirectory/924/).
+[2018.11.16-08.49.25:187][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jason/AppData/Local/Temp/UnrealShaderWorkingDir/9762CFE2477657F7F75E2BA8AFD41056/'.
+[2018.11.16-08.49.25:462][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.16-08.49.25:475][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.16-08.49.25:487][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.16-08.49.25:500][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.16-08.49.25:513][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.16-08.49.25:526][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.16-08.49.25:539][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.16-08.49.25:552][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.16-08.49.25:558][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.16-08.49.25:569][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.16-08.49.25:580][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.16-08.49.25:592][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.16-08.49.25:603][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.11.16-08.49.25:614][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.16-08.49.25:625][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.16-08.49.25:647][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.16-08.49.25:648][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.16-08.49.25:659][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-08.49.25:661][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.16-08.49.25:697][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.16-08.49.25:708][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.16-08.49.25:719][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.16-08.49.25:731][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.16-08.49.25:742][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.16-08.49.25:754][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.16-08.49.25:754][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.16-08.49.25:863][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.16-08.49.25:863][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.16-08.49.25:863][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.16-08.49.26:616][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.16-08.49.26:717][  0]LogDerivedDataCache: Loaded boot cache 0.10s 74MB C:/Users/Jason/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.16-08.49.26:717][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jason/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.11.16-08.49.26:717][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../SMBClone/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.16-08.49.26:717][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.16-08.49.26:717][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../SMBClone/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.16-08.49.26:717][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.16-08.49.26:737][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.16-08.49.26:750][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jason/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.16-08.49.26:750][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.16-08.49.26:750][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.16-08.49.26:761][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.16-08.49.26:762][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.16-08.49.26:762][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.16-08.49.26:762][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.16-08.49.26:897][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2018.11.16-08.49.27:237][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.16-08.49.27:386][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.16-08.49.27:388][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.16-08.49.27:388][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.16-08.49.27:388][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.16-08.49.27:388][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.16-08.49.27:388][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.16-08.49.27:420][  0]LogNetVersion: SMBClone , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 657049582)
+[2018.11.16-08.49.27:993][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.150489 seconds
+[2018.11.16-08.49.27:998][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.11.16-08.49.27:998][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.11.16-08.49.27:998][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.16-08.49.29:601][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.16-08.49.29:631][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.16-08.49.30:007][  0]SourceControl: Source control is disabled
+[2018.11.16-08.49.30:007][  0]SourceControl: Source control is disabled
+[2018.11.16-08.49.30:025][  0]SourceControl: Source control is disabled
+[2018.11.16-08.49.30:042][  0]SourceControl: Source control is disabled
+[2018.11.16-08.49.30:545][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.16-08.49.30:716][  0]LogOcInput: OculusInput pre-init called
+[2018.11.16-08.49.30:825][  0]LogEngine: Initializing Engine...
+[2018.11.16-08.49.30:826][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.16-08.49.30:828][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.16-08.49.30:828][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.16-08.49.31:050][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.16-08.49.31:072][  0]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 128))' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2018.11.16-08.49.31:098][  0]LogInit: FAudioDevice initialized.
+[2018.11.16-08.49.31:176][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/Jason/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.16-08.49.31:227][  0]LogInit: Texture streaming: Enabled
+[2018.11.16-08.49.31:245][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.16-08.49.31:261][  0]LogInit: Transaction tracking system initialized
+[2018.11.16-08.49.31:284][  0]BlueprintLog: New page: Editor Load
+[2018.11.16-08.49.31:358][  0]LocalizationService: Localization service is disabled
+[2018.11.16-08.49.31:462][  0]LogConsoleResponse: Display: 
+[2018.11.16-08.49.31:632][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.16-08.49.31:632][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.16-08.49.31:632][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.16-08.49.31:632][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.16-08.49.31:632][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.16-08.49.31:890][  0]LogFileCache: Scanning file cache for directory 'Z:/SMBClone/Content/' took 0.02s
+[2018.11.16-08.49.31:989][  0]SourceControl: Source control is disabled
+[2018.11.16-08.49.31:989][  0]Cmd: MAP LOAD FILE="../../../../SMBClone/Content/TempLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.16-08.49.31:989][  0]LightingResults: New page: Lighting Build
+[2018.11.16-08.49.31:992][  0]MapCheck: New page: Map Check
+[2018.11.16-08.49.31:992][  0]LightingResults: New page: Lighting Build
+[2018.11.16-08.49.32:166][  0]LogAIModule: Creating AISystem for world TempLevel
+[2018.11.16-08.49.32:169][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.16-08.49.32:180][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.16-08.49.32:228][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.903ms to complete.
+[2018.11.16-08.49.32:228][  0]LogFileHelpers: Loading map 'TempLevel' took 0.239
+[2018.11.16-08.49.32:417][  0]LogCollectionManager: Loaded 0 collections in 0.001497 seconds
+[2018.11.16-08.49.32:458][  0]LogFileCache: Scanning file cache for directory 'Z:/SMBClone/Saved/Collections/' took 0.01s
+[2018.11.16-08.49.32:458][  0]LogFileCache: Scanning file cache for directory 'Z:/SMBClone/Content/Developers/Jason/Collections/' took 0.01s
+[2018.11.16-08.49.32:458][  0]LogFileCache: Scanning file cache for directory 'Z:/SMBClone/Content/Collections/' took 0.01s
+[2018.11.16-08.49.32:458][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.16-08.49.32:469][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2456 classes and 561 folders.
+[2018.11.16-08.49.32:477][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.11.16-08.49.32:977][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.11.16-08.49.32:999][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.11.16-08.49.33:039][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.16-08.49.33:042][  0]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.16-08.49.33:060][  0]LogSlate: Took 0.011648 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.16-08.49.33:222][  0]LogRenderer: Reallocating scene render targets to support 872x516 Format 10 NumSamples 1 (Frame:1).
+[2018.11.16-08.49.33:669][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.11.16-08.49.33:669][  0]LogLoad: (Engine Initialization) Total time: 12.54 seconds
+[2018.11.16-08.49.33:669][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.16-08.49.33:679][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.16-08.49.33:698][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.16-08.49.33:767][  1]LogAssetRegistry: Asset discovery search completed in 6.8926 seconds
+[2018.11.16-08.49.33:768][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.16-08.49.33:769][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2018.11.16-08.49.34:811][ 25]LogSlate: Took 0.012540 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.16-08.49.50:073][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-08.49.53:093][721]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.16-09.09.02:364][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-09.09.03:520][808]LogUObjectGlobals: Created PersistentFrame Addr=0x00000249fba81600, Size=392, Default__Ball_BP_C Function /Game/Ball_BP.Ball_BP_C:ExecuteUbergraph_Ball_BP
+[2018.11.16-09.09.03:525][808]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000249fba81600, Size=392
+[2018.11.16-09.09.03:525][808]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024991e5fc80, Size=392, Default__Ball_BP_C Function /Engine/Transient.REINST_Ball_BP_C_1:ExecuteUbergraph_Ball_BP
+[2018.11.16-09.09.03:531][808]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024991e5e400, Size=392, Default__Ball_BP_C Function /Game/Ball_BP.Ball_BP_C:ExecuteUbergraph_Ball_BP
+[2018.11.16-09.09.04:174][808]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 116 classes and 0 folders.
+[2018.11.16-09.09.04:474][808]LogUObjectGlobals: Created PersistentFrame Addr=0x00000249aa435de0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.11.16-09.09.04:474][808]LogUObjectGlobals: Created PersistentFrame Addr=0x00000249aa435dd8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.11.16-09.09.05:033][808]LogSlate: Took 0.010267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.16-09.09.05:180][809]LogSlate: Took 0.009232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.16-09.09.26:699][946]BlueprintLog: New page: Compile Ball_BP
+[2018.11.16-09.09.26:727][946]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024991e5e400, Size=392
+[2018.11.16-09.09.26:727][946]LogUObjectGlobals: Created PersistentFrame Addr=0x00000249c030a080, Size=392, Ball_BP_C_2 Function /Engine/Transient.REINST_Ball_BP_C_19:ExecuteUbergraph_Ball_BP
+[2018.11.16-09.09.26:732][946]LogUObjectGlobals: Created PersistentFrame Addr=0x00000249c0308480, Size=392, Default__Ball_BP_C Function /Game/Ball_BP.Ball_BP_C:ExecuteUbergraph_Ball_BP
+[2018.11.16-09.09.26:961][946]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024991e5fc80, Size=392
+[2018.11.16-09.09.35:284][158]Candidate modules for hot reload:
+[2018.11.16-09.09.35:284][158]  SMBClone
+[2018.11.16-09.09.35:284][158]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,8420 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.11.16-09.09.35:382][158]Warning: Starting HotReload took  0.2s.
+[2018.11.16-09.09.46:970][525]CompilerResultsLog: New page: Compilation - 16 Nov 2018 09:09:46
+[2018.11.16-09.09.46:970][525]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.16-09.09.46:970][525]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.11.16-09.09.46:970][525]CompilerResultsLog: CameraRotatingComponent.cpp
+[2018.11.16-09.09.46:971][525]CompilerResultsLog: Error: Z:\SMBClone\Source\SMBClone\Private\CameraRotatingComponent.cpp(17) : error C2059: syntax error: 'static_assert'
+[2018.11.16-09.09.46:971][525]CompilerResultsLog: Error: Z:\SMBClone\Source\SMBClone\Private\CameraRotatingComponent.cpp(18) : error C2059: syntax error: '}'
+[2018.11.16-09.09.46:971][525]CompilerResultsLog: Error: Z:\SMBClone\Source\SMBClone\Private\CameraRotatingComponent.cpp(18) : error C2143: syntax error: missing ';' before '}'
+[2018.11.16-09.09.46:971][525]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-8420.dll
+[2018.11.16-09.09.46:971][525]CompilerResultsLog: Total build time: 11.13 seconds (Local executor: 0.00 seconds)
+[2018.11.16-09.09.46:971][525]LogMainFrame: MainFrame: Module compiling took 11.699 seconds
+[2018.11.16-09.09.46:971][525]Warning: HotReload failed, recompile failed
+[2018.11.16-09.09.51:530][652]LogSlate: Window 'Message Log' being destroyed
+[2018.11.16-09.09.51:579][652]LogSlate: Window 'Message Log' being destroyed
+[2018.11.16-09.10.16:357][880]Candidate modules for hot reload:
+[2018.11.16-09.10.16:357][880]  SMBClone
+[2018.11.16-09.10.16:357][880]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,9417 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.11.16-09.10.16:370][880]Warning: Starting HotReload took  0.0s.
+[2018.11.16-09.10.23:837][148]CompilerResultsLog: New page: Compilation - 16 Nov 2018 09:10:23
+[2018.11.16-09.10.23:838][148]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.16-09.10.23:838][148]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.11.16-09.10.23:838][148]CompilerResultsLog: CameraRotatingComponent.cpp
+[2018.11.16-09.10.23:838][148]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(62) : error C2338: Invalid argument(s) passed to FMsg::Logf_Internal
+[2018.11.16-09.10.23:838][148]CompilerResultsLog: Error: Z:\SMBClone\Source\SMBClone\Private\CameraRotatingComponent.cpp(17) : note: see reference to function template instantiation 'void FMsg::Logf_Internal<wchar_t[14],FString>(const ANSICHAR *,int32,const FName &,ELogVerbosity::Type,const FmtType (&),FString)' being compiled
+[2018.11.16-09.10.23:838][148]CompilerResultsLog:         with
+[2018.11.16-09.10.23:838][148]CompilerResultsLog:         [
+[2018.11.16-09.10.23:839][148]CompilerResultsLog:             FmtType=wchar_t [14]
+[2018.11.16-09.10.23:839][148]CompilerResultsLog:         ]
+[2018.11.16-09.10.23:839][148]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(64) : error C4840: non-portable use of class 'FString' as an argument to a variadic function
+[2018.11.16-09.10.23:839][148]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(64) : note: 'FString::FString' is non-trivial
+[2018.11.16-09.10.23:839][148]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Containers/UnrealString.h(73) : note: see declaration of 'FString::FString'
+[2018.11.16-09.10.23:839][148]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(64) : note: the constructor and destructor will not be called; a bitwise copy of the class will be passed as the argument
+[2018.11.16-09.10.23:839][148]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Windows/WindowsCriticalSection.h(9) : note: see declaration of 'FString'
+[2018.11.16-09.10.23:839][148]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-9417.dll
+[2018.11.16-09.10.23:839][148]CompilerResultsLog: Total build time: 7.21 seconds (Local executor: 0.00 seconds)
+[2018.11.16-09.10.23:839][148]LogMainFrame: MainFrame: Module compiling took 7.505 seconds
+[2018.11.16-09.10.23:839][148]Warning: HotReload failed, recompile failed
+[2018.11.16-09.10.25:119][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-09.10.53:301][998]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000249c030a080, Size=392
+[2018.11.16-09.10.53:302][998]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TempLevel' took 0.027
+[2018.11.16-09.10.53:304][998]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ball_BP] ([1] browsable assets)...
+[2018.11.16-09.10.53:338][998]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Ball_BP.Ball_BP]
+[2018.11.16-09.10.53:338][998]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ball_BP]
+[2018.11.16-09.10.53:338][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ball_BP" FILE="../../../../SMBClone/Saved/Autosaves/Game/Ball_BP_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.16-09.10.53:449][998]LogSavePackage: Save=87.14ms
+[2018.11.16-09.10.53:449][998]LogSavePackage: Moving '../../../../SMBClone/Saved/Ball_BP_Auto1F4B5BDB54B894FD42183CAB5DF53C1CE.tmp' to '../../../../SMBClone/Saved/Autosaves/Game/Ball_BP_Auto1.uasset'
+[2018.11.16-09.10.53:454][998]LogSavePackage: Display: Finished SavePackage ../../../../SMBClone/Saved/Autosaves/Game/Ball_BP_Auto1.uasset
+[2018.11.16-09.10.53:454][998]LogFileHelpers: Auto-saving content packages took 0.151
+[2018.11.16-09.11.38:265][253]LogSlate: Window 'Message Log' being destroyed
+[2018.11.16-09.11.38:292][253]LogSlate: Window 'Message Log' being destroyed
+[2018.11.16-09.14.20:393][928]Candidate modules for hot reload:
+[2018.11.16-09.14.20:393][928]  SMBClone
+[2018.11.16-09.14.20:393][928]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,6025 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.11.16-09.14.20:405][928]Warning: Starting HotReload took  0.1s.
+[2018.11.16-09.14.55:879][  4]CompilerResultsLog: New page: Compilation - 16 Nov 2018 09:14:55
+[2018.11.16-09.14.55:880][  4]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.16-09.14.55:880][  4]CompilerResultsLog: Parsing headers for SMBCloneEditor
+[2018.11.16-09.14.55:880][  4]CompilerResultsLog:   Running UnrealHeaderTool "Z:\SMBClone\SMBClone.uproject" "Z:\SMBClone\Intermediate\Build\Win64\SMBCloneEditor\Development\SMBCloneEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.11.16-09.14.55:880][  4]CompilerResultsLog: Reflection code generated for SMBCloneEditor in 31.0506018 seconds
+[2018.11.16-09.14.55:880][  4]CompilerResultsLog: Performing 4 actions (4 in parallel)
+[2018.11.16-09.14.55:880][  4]CompilerResultsLog: CameraRotatingComponent.cpp
+[2018.11.16-09.14.55:880][  4]CompilerResultsLog: CameraRotatingComponent.gen.cpp
+[2018.11.16-09.14.55:880][  4]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(62) : error C2338: Invalid argument(s) passed to FMsg::Logf_Internal
+[2018.11.16-09.14.55:880][  4]CompilerResultsLog: Error: Z:\SMBClone\Source\SMBClone\Private\CameraRotatingComponent.cpp(17) : note: see reference to function template instantiation 'void FMsg::Logf_Internal<wchar_t[14],FString>(const ANSICHAR *,int32,const FName &,ELogVerbosity::Type,const FmtType (&),FString)' being compiled
+[2018.11.16-09.14.55:880][  4]CompilerResultsLog:         with
+[2018.11.16-09.14.55:880][  4]CompilerResultsLog:         [
+[2018.11.16-09.14.55:880][  4]CompilerResultsLog:             FmtType=wchar_t [14]
+[2018.11.16-09.14.55:880][  4]CompilerResultsLog:         ]
+[2018.11.16-09.14.55:880][  4]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(64) : error C4840: non-portable use of class 'FString' as an argument to a variadic function
+[2018.11.16-09.14.55:880][  4]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(64) : note: 'FString::FString' is non-trivial
+[2018.11.16-09.14.55:880][  4]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Containers/UnrealString.h(73) : note: see declaration of 'FString::FString'
+[2018.11.16-09.14.55:880][  4]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(64) : note: the constructor and destructor will not be called; a bitwise copy of the class will be passed as the argument
+[2018.11.16-09.14.55:880][  4]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Windows/WindowsCriticalSection.h(9) : note: see declaration of 'FString'
+[2018.11.16-09.14.55:880][  4]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-6025.dll
+[2018.11.16-09.14.55:880][  4]CompilerResultsLog: Total build time: 35.08 seconds (Local executor: 0.00 seconds)
+[2018.11.16-09.14.55:880][  4]LogMainFrame: MainFrame: Module compiling took 35.498 seconds
+[2018.11.16-09.14.55:880][  4]Warning: HotReload failed, recompile failed
+[2018.11.16-09.15.09:247][334]LogSlate: Window 'Message Log' being destroyed
+[2018.11.16-09.15.09:278][334]LogSlate: Window 'Message Log' being destroyed
+[2018.11.16-09.15.34:815][460]Candidate modules for hot reload:
+[2018.11.16-09.15.34:815][460]  SMBClone
+[2018.11.16-09.15.34:815][460]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,5984 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.11.16-09.15.34:825][460]Warning: Starting HotReload took  0.0s.
+[2018.11.16-09.15.37:343][566]CompilerResultsLog: New page: Compilation - 16 Nov 2018 09:15:37
+[2018.11.16-09.15.37:344][566]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.16-09.15.37:344][566]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.11.16-09.15.37:344][566]CompilerResultsLog: CameraRotatingComponent.cpp
+[2018.11.16-09.15.37:345][566]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(62) : error C2338: Invalid argument(s) passed to FMsg::Logf_Internal
+[2018.11.16-09.15.37:345][566]CompilerResultsLog: Error: Z:\SMBClone\Source\SMBClone\Private\CameraRotatingComponent.cpp(17) : note: see reference to function template instantiation 'void FMsg::Logf_Internal<wchar_t[14],FString>(const ANSICHAR *,int32,const FName &,ELogVerbosity::Type,const FmtType (&),FString)' being compiled
+[2018.11.16-09.15.37:345][566]CompilerResultsLog:         with
+[2018.11.16-09.15.37:346][566]CompilerResultsLog:         [
+[2018.11.16-09.15.37:346][566]CompilerResultsLog:             FmtType=wchar_t [14]
+[2018.11.16-09.15.37:346][566]CompilerResultsLog:         ]
+[2018.11.16-09.15.37:346][566]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(64) : error C4840: non-portable use of class 'FString' as an argument to a variadic function
+[2018.11.16-09.15.37:346][566]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(64) : note: 'FString::FString' is non-trivial
+[2018.11.16-09.15.37:346][566]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Containers/UnrealString.h(73) : note: see declaration of 'FString::FString'
+[2018.11.16-09.15.37:346][566]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(64) : note: the constructor and destructor will not be called; a bitwise copy of the class will be passed as the argument
+[2018.11.16-09.15.37:346][566]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Windows/WindowsCriticalSection.h(9) : note: see declaration of 'FString'
+[2018.11.16-09.15.37:346][566]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-5984.dll
+[2018.11.16-09.15.37:346][566]CompilerResultsLog: Total build time: 2.08 seconds (Local executor: 0.00 seconds)
+[2018.11.16-09.15.37:347][566]LogMainFrame: MainFrame: Module compiling took 2.550 seconds
+[2018.11.16-09.15.37:347][566]Warning: HotReload failed, recompile failed
+[2018.11.16-09.15.53:052][674]LogSlate: Window 'Message Log' being destroyed
+[2018.11.16-09.15.53:080][674]LogSlate: Window 'Message Log' being destroyed
+[2018.11.16-09.15.54:080][709]Candidate modules for hot reload:
+[2018.11.16-09.15.54:081][709]  SMBClone
+[2018.11.16-09.15.54:081][709]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,3127 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.11.16-09.15.54:092][709]Warning: Starting HotReload took  0.0s.
+[2018.11.16-09.15.56:466][836]CompilerResultsLog: New page: Compilation - 16 Nov 2018 09:15:56
+[2018.11.16-09.15.56:467][836]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.16-09.15.56:467][836]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.11.16-09.15.56:467][836]CompilerResultsLog: CameraRotatingComponent.cpp
+[2018.11.16-09.15.56:468][836]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(62) : error C2338: Invalid argument(s) passed to FMsg::Logf_Internal
+[2018.11.16-09.15.56:468][836]CompilerResultsLog: Error: Z:\SMBClone\Source\SMBClone\Private\CameraRotatingComponent.cpp(17) : note: see reference to function template instantiation 'void FMsg::Logf_Internal<wchar_t[14],FString>(const ANSICHAR *,int32,const FName &,ELogVerbosity::Type,const FmtType (&),FString)' being compiled
+[2018.11.16-09.15.56:468][836]CompilerResultsLog:         with
+[2018.11.16-09.15.56:468][836]CompilerResultsLog:         [
+[2018.11.16-09.15.56:468][836]CompilerResultsLog:             FmtType=wchar_t [14]
+[2018.11.16-09.15.56:468][836]CompilerResultsLog:         ]
+[2018.11.16-09.15.56:468][836]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(64) : error C4840: non-portable use of class 'FString' as an argument to a variadic function
+[2018.11.16-09.15.56:468][836]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(64) : note: 'FString::FString' is non-trivial
+[2018.11.16-09.15.56:468][836]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Containers/UnrealString.h(73) : note: see declaration of 'FString::FString'
+[2018.11.16-09.15.56:468][836]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(64) : note: the constructor and destructor will not be called; a bitwise copy of the class will be passed as the argument
+[2018.11.16-09.15.56:468][836]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Windows/WindowsCriticalSection.h(9) : note: see declaration of 'FString'
+[2018.11.16-09.15.56:468][836]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-3127.dll
+[2018.11.16-09.15.56:468][836]CompilerResultsLog: Total build time: 2.08 seconds (Local executor: 0.00 seconds)
+[2018.11.16-09.15.56:469][836]LogMainFrame: MainFrame: Module compiling took 2.401 seconds
+[2018.11.16-09.15.56:469][836]Warning: HotReload failed, recompile failed
+[2018.11.16-09.16.48:488][ 88]Candidate modules for hot reload:
+[2018.11.16-09.16.48:488][ 88]  SMBClone
+[2018.11.16-09.16.48:488][ 88]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,239 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.11.16-09.16.48:499][ 88]Warning: Starting HotReload took  0.0s.
+[2018.11.16-09.16.50:790][230]CompilerResultsLog: New page: Compilation - 16 Nov 2018 09:16:50
+[2018.11.16-09.16.50:790][230]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.16-09.16.50:790][230]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.11.16-09.16.50:790][230]CompilerResultsLog: CameraRotatingComponent.cpp
+[2018.11.16-09.16.50:790][230]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(62) : error C2338: Invalid argument(s) passed to FMsg::Logf_Internal
+[2018.11.16-09.16.50:790][230]CompilerResultsLog: Error: Z:\SMBClone\Source\SMBClone\Private\CameraRotatingComponent.cpp(17) : note: see reference to function template instantiation 'void FMsg::Logf_Internal<wchar_t[14],FString>(const ANSICHAR *,int32,const FName &,ELogVerbosity::Type,const FmtType (&),FString)' being compiled
+[2018.11.16-09.16.50:790][230]CompilerResultsLog:         with
+[2018.11.16-09.16.50:790][230]CompilerResultsLog:         [
+[2018.11.16-09.16.50:790][230]CompilerResultsLog:             FmtType=wchar_t [14]
+[2018.11.16-09.16.50:790][230]CompilerResultsLog:         ]
+[2018.11.16-09.16.50:791][230]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(64) : error C4840: non-portable use of class 'FString' as an argument to a variadic function
+[2018.11.16-09.16.50:791][230]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(64) : note: 'FString::FString' is non-trivial
+[2018.11.16-09.16.50:791][230]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Containers/UnrealString.h(73) : note: see declaration of 'FString::FString'
+[2018.11.16-09.16.50:791][230]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(64) : note: the constructor and destructor will not be called; a bitwise copy of the class will be passed as the argument
+[2018.11.16-09.16.50:791][230]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Windows/WindowsCriticalSection.h(9) : note: see declaration of 'FString'
+[2018.11.16-09.16.50:791][230]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-239.dll
+[2018.11.16-09.16.50:791][230]CompilerResultsLog: Total build time: 2.01 seconds (Local executor: 0.00 seconds)
+[2018.11.16-09.16.50:791][230]LogMainFrame: MainFrame: Module compiling took 2.315 seconds
+[2018.11.16-09.16.50:791][230]Warning: HotReload failed, recompile failed
+[2018.11.16-09.18.14:790][734]LogSlate: Window 'Message Log' being destroyed
+[2018.11.16-09.18.14:812][734]LogSlate: Window 'Message Log' being destroyed
+[2018.11.16-09.18.15:630][763]Candidate modules for hot reload:
+[2018.11.16-09.18.15:630][763]  SMBClone
+[2018.11.16-09.18.15:630][763]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,8539 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.11.16-09.18.15:642][763]Warning: Starting HotReload took  0.0s.
+[2018.11.16-09.18.18:183][848]CompilerResultsLog: New page: Compilation - 16 Nov 2018 09:18:18
+[2018.11.16-09.18.18:183][848]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.16-09.18.18:183][848]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.11.16-09.18.18:183][848]CompilerResultsLog: CameraRotatingComponent.cpp
+[2018.11.16-09.18.18:183][848]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(62) : error C2338: Invalid argument(s) passed to FMsg::Logf_Internal
+[2018.11.16-09.18.18:183][848]CompilerResultsLog: Error: Z:\SMBClone\Source\SMBClone\Private\CameraRotatingComponent.cpp(19) : note: see reference to function template instantiation 'void FMsg::Logf_Internal<wchar_t[14],FString>(const ANSICHAR *,int32,const FName &,ELogVerbosity::Type,const FmtType (&),FString)' being compiled
+[2018.11.16-09.18.18:183][848]CompilerResultsLog:         with
+[2018.11.16-09.18.18:183][848]CompilerResultsLog:         [
+[2018.11.16-09.18.18:183][848]CompilerResultsLog:             FmtType=wchar_t [14]
+[2018.11.16-09.18.18:183][848]CompilerResultsLog:         ]
+[2018.11.16-09.18.18:183][848]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(64) : error C4840: non-portable use of class 'FString' as an argument to a variadic function
+[2018.11.16-09.18.18:183][848]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(64) : note: 'FString::FString' is non-trivial
+[2018.11.16-09.18.18:183][848]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Containers/UnrealString.h(73) : note: see declaration of 'FString::FString'
+[2018.11.16-09.18.18:183][848]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(64) : note: the constructor and destructor will not be called; a bitwise copy of the class will be passed as the argument
+[2018.11.16-09.18.18:183][848]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Windows/WindowsCriticalSection.h(9) : note: see declaration of 'FString'
+[2018.11.16-09.18.18:183][848]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-8539.dll
+[2018.11.16-09.18.18:183][848]CompilerResultsLog: Total build time: 2.23 seconds (Local executor: 0.00 seconds)
+[2018.11.16-09.18.18:183][848]LogMainFrame: MainFrame: Module compiling took 2.565 seconds
+[2018.11.16-09.18.18:184][848]Warning: HotReload failed, recompile failed
+[2018.11.16-09.18.26:015][ 74]LogSlate: Window 'Message Log' being destroyed
+[2018.11.16-09.18.26:042][ 74]LogSlate: Window 'Message Log' being destroyed
+[2018.11.16-09.18.58:989][257]Candidate modules for hot reload:
+[2018.11.16-09.18.58:989][257]  SMBClone
+[2018.11.16-09.18.58:989][257]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,1485 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.11.16-09.18.59:004][257]Warning: Starting HotReload took  0.0s.
+[2018.11.16-09.19.01:553][386]CompilerResultsLog: New page: Compilation - 16 Nov 2018 09:19:01
+[2018.11.16-09.19.01:553][386]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.16-09.19.01:553][386]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.11.16-09.19.01:553][386]CompilerResultsLog: CameraRotatingComponent.cpp
+[2018.11.16-09.19.01:553][386]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(62) : error C2338: Invalid argument(s) passed to FMsg::Logf_Internal
+[2018.11.16-09.19.01:553][386]CompilerResultsLog: Error: Z:\SMBClone\Source\SMBClone\Private\CameraRotatingComponent.cpp(19) : note: see reference to function template instantiation 'void FMsg::Logf_Internal<wchar_t[14],FString>(const ANSICHAR *,int32,const FName &,ELogVerbosity::Type,const FmtType (&),FString)' being compiled
+[2018.11.16-09.19.01:553][386]CompilerResultsLog:         with
+[2018.11.16-09.19.01:553][386]CompilerResultsLog:         [
+[2018.11.16-09.19.01:554][386]CompilerResultsLog:             FmtType=wchar_t [14]
+[2018.11.16-09.19.01:554][386]CompilerResultsLog:         ]
+[2018.11.16-09.19.01:554][386]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(64) : error C4840: non-portable use of class 'FString' as an argument to a variadic function
+[2018.11.16-09.19.01:554][386]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(64) : note: 'FString::FString' is non-trivial
+[2018.11.16-09.19.01:554][386]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Containers/UnrealString.h(73) : note: see declaration of 'FString::FString'
+[2018.11.16-09.19.01:554][386]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h(64) : note: the constructor and destructor will not be called; a bitwise copy of the class will be passed as the argument
+[2018.11.16-09.19.01:554][386]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Core\Public\Windows/WindowsCriticalSection.h(9) : note: see declaration of 'FString'
+[2018.11.16-09.19.01:554][386]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-1485.dll
+[2018.11.16-09.19.01:554][386]CompilerResultsLog: Total build time: 2.23 seconds (Local executor: 0.00 seconds)
+[2018.11.16-09.19.01:554][386]LogMainFrame: MainFrame: Module compiling took 2.576 seconds
+[2018.11.16-09.19.01:554][386]Warning: HotReload failed, recompile failed
+[2018.11.16-09.19.22:745][771]Candidate modules for hot reload:
+[2018.11.16-09.19.22:745][771]  SMBClone
+[2018.11.16-09.19.22:745][771]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,5863 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.11.16-09.19.22:757][771]Warning: Starting HotReload took  0.1s.
+[2018.11.16-09.19.23:655][823]LogSlate: Window 'Message Log' being destroyed
+[2018.11.16-09.19.23:683][823]LogSlate: Window 'Message Log' being destroyed
+[2018.11.16-09.19.27:458][887]CompilerResultsLog: New page: Compilation - 16 Nov 2018 09:19:27
+[2018.11.16-09.19.27:458][887]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.16-09.19.27:458][887]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.11.16-09.19.27:458][887]CompilerResultsLog: CameraRotatingComponent.cpp
+[2018.11.16-09.19.27:458][887]CompilerResultsLog: [2/3] Link UE4Editor-SMBClone-5863.dll
+[2018.11.16-09.19.27:458][887]CompilerResultsLog: [3/3] Link UE4Editor-SMBClone-5863.lib
+[2018.11.16-09.19.27:458][887]CompilerResultsLog:    Creating library Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-5863.lib and object Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-5863.exp
+[2018.11.16-09.19.27:458][887]CompilerResultsLog:    Creating library Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-5863.suppressed.lib and object Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-5863.suppressed.exp
+[2018.11.16-09.19.27:458][887]CompilerResultsLog: Total build time: 4.18 seconds (Local executor: 3.11 seconds)
+[2018.11.16-09.19.27:458][887]LogMainFrame: MainFrame: Module compiling took 4.725 seconds
+[2018.11.16-09.19.30:661][887]LogContentBrowser: Native class hierarchy updated for 'SMBClone' in 0.0012 seconds. Added 4 classes and 3 folders.
+[2018.11.16-09.19.30:663][887]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2018.11.16-09.19.31:028][887]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 2457 classes and 563 folders.
+[2018.11.16-09.19.31:029][887]Display: HotReload took  8.3s.
+[2018.11.16-09.20.04:935][ 90]Candidate modules for hot reload:
+[2018.11.16-09.20.04:935][ 90]  SMBClone
+[2018.11.16-09.20.04:935][ 90]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,6891 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.11.16-09.20.04:949][ 90]Warning: Starting HotReload took  0.0s.
+[2018.11.16-09.20.08:643][194]CompilerResultsLog: New page: Compilation - 16 Nov 2018 09:20:08
+[2018.11.16-09.20.08:644][194]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.16-09.20.08:644][194]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.11.16-09.20.08:644][194]CompilerResultsLog: CameraRotatingComponent.cpp
+[2018.11.16-09.20.08:644][194]CompilerResultsLog: [2/3] Link UE4Editor-SMBClone-6891.dll
+[2018.11.16-09.20.08:644][194]CompilerResultsLog: [3/3] Link UE4Editor-SMBClone-6891.lib
+[2018.11.16-09.20.08:644][194]CompilerResultsLog:    Creating library Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-6891.lib and object Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-6891.exp
+[2018.11.16-09.20.08:644][194]CompilerResultsLog:    Creating library Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-6891.suppressed.lib and object Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-6891.suppressed.exp
+[2018.11.16-09.20.08:644][194]CompilerResultsLog: Total build time: 3.37 seconds (Local executor: 2.34 seconds)
+[2018.11.16-09.20.08:644][194]LogMainFrame: MainFrame: Module compiling took 3.731 seconds
+[2018.11.16-09.20.08:707][194]LogContentBrowser: Native class hierarchy updated for 'SMBClone' in 0.0011 seconds. Added 4 classes and 3 folders.
+[2018.11.16-09.20.08:709][194]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2018.11.16-09.20.09:024][194]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 2457 classes and 563 folders.
+[2018.11.16-09.20.09:024][194]Display: HotReload took  4.1s.
+[2018.11.16-09.20.12:417][262]LogSlate: Took 0.011359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.16-09.20.13:294][291]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.16-09.20.13:326][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.16-09.20.13:326][291]PIE: New page: PIE session: TempLevel (16 Nov 2018 09:20:13)
+[2018.11.16-09.20.13:326][291]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TempLevel
+[2018.11.16-09.20.13:328][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000868s)
+[2018.11.16-09.20.13:329][291]LogAIModule: Creating AISystem for world TempLevel
+[2018.11.16-09.20.13:329][291]LogPlayLevel: PIE: World Init took: (0.001265s)
+[2018.11.16-09.20.13:329][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TempLevel.TempLevel to /Game/UEDPIE_0_TempLevel.TempLevel (0.002746s)
+[2018.11.16-09.20.13:393][291]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 128))' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2018.11.16-09.20.13:401][291]LogInit: FAudioDevice initialized.
+[2018.11.16-09.20.13:458][291]LogLoad: Game class is 'GameModeTemp_C'
+[2018.11.16-09.20.13:461][291]LogWorld: Bringing World /Game/UEDPIE_0_TempLevel.TempLevel up for play (max tick rate 60) at 2018.11.16-09.20.13
+[2018.11.16-09.20.13:462][291]LogWorld: Bringing up level for play took: 0.001012
+[2018.11.16-09.20.13:706][291]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 11 classes and 0 folders.
+[2018.11.16-09.20.13:708][291]PIE: Play in editor start time for /Game/UEDPIE_0_TempLevel -0.039
+[2018.11.16-09.20.13:709][291]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.13:755][292]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.13:771][293]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.13:789][294]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.13:823][295]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.13:849][296]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.13:878][297]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.13:905][298]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.13:932][299]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.13:959][300]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.13:984][301]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:013][302]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:042][303]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:068][304]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:097][305]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:125][306]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:151][307]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:178][308]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:206][309]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:231][310]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:259][311]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:284][312]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:315][313]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:368][314]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:384][315]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:401][316]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:422][317]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:448][318]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:476][319]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:500][320]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:530][321]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:558][322]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:584][323]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:611][324]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:641][325]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:666][326]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:695][327]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:723][328]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:749][329]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:777][330]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:805][331]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:832][332]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:860][333]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:888][334]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:913][335]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:941][336]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:966][337]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.14:992][338]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.15:019][339]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.15:047][340]LogTemp: Warning: Velocity = Hello
+[2018.11.16-09.20.32:134][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-09.20.32:228][463]Candidate modules for hot reload:
+[2018.11.16-09.20.32:228][463]  SMBClone
+[2018.11.16-09.20.32:229][463]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,9450 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.11.16-09.20.32:241][463]Warning: Starting HotReload took  0.0s.
+[2018.11.16-09.20.36:480][601]CompilerResultsLog: New page: Compilation - 16 Nov 2018 09:20:36
+[2018.11.16-09.20.36:480][601]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.16-09.20.36:480][601]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.11.16-09.20.36:480][601]CompilerResultsLog: CameraRotatingComponent.cpp
+[2018.11.16-09.20.36:480][601]CompilerResultsLog: [2/3] Link UE4Editor-SMBClone-9450.dll
+[2018.11.16-09.20.36:480][601]CompilerResultsLog: [3/3] Link UE4Editor-SMBClone-9450.lib
+[2018.11.16-09.20.36:480][601]CompilerResultsLog:    Creating library Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-9450.lib and object Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-9450.exp
+[2018.11.16-09.20.36:481][601]CompilerResultsLog:    Creating library Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-9450.suppressed.lib and object Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-9450.suppressed.exp
+[2018.11.16-09.20.36:481][601]CompilerResultsLog: Total build time: 3.94 seconds (Local executor: 2.85 seconds)
+[2018.11.16-09.20.36:481][601]LogMainFrame: MainFrame: Module compiling took 4.276 seconds
+[2018.11.16-09.20.36:543][601]LogContentBrowser: Native class hierarchy updated for 'SMBClone' in 0.0010 seconds. Added 4 classes and 3 folders.
+[2018.11.16-09.20.36:546][601]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2018.11.16-09.20.36:861][601]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2457 classes and 563 folders.
+[2018.11.16-09.20.36:861][601]Display: HotReload took  4.7s.
+[2018.11.16-09.20.37:388][621]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.16-09.20.37:419][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.16-09.20.37:420][621]PIE: New page: PIE session: TempLevel (16 Nov 2018 09:20:37)
+[2018.11.16-09.20.37:421][621]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TempLevel
+[2018.11.16-09.20.37:424][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003300s)
+[2018.11.16-09.20.37:427][621]LogAIModule: Creating AISystem for world TempLevel
+[2018.11.16-09.20.37:427][621]LogPlayLevel: PIE: World Init took: (0.002047s)
+[2018.11.16-09.20.37:427][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TempLevel.TempLevel to /Game/UEDPIE_0_TempLevel.TempLevel (0.006447s)
+[2018.11.16-09.20.37:497][621]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 128))' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2018.11.16-09.20.37:504][621]LogInit: FAudioDevice initialized.
+[2018.11.16-09.20.37:535][621]LogLoad: Game class is 'GameModeTemp_C'
+[2018.11.16-09.20.37:536][621]LogWorld: Bringing World /Game/UEDPIE_0_TempLevel.TempLevel up for play (max tick rate 60) at 2018.11.16-09.20.37
+[2018.11.16-09.20.37:536][621]LogWorld: Bringing up level for play took: 0.000653
+[2018.11.16-09.20.37:538][621]PIE: Play in editor start time for /Game/UEDPIE_0_TempLevel -0.209
+[2018.11.16-09.20.37:538][621]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.37:562][622]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.37:579][623]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.37:595][624]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.37:611][625]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.37:636][626]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.37:670][627]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.37:713][628]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.37:734][629]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.37:746][630]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.37:764][631]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.37:789][632]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.37:815][633]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.37:840][634]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.37:866][635]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.37:891][636]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.37:915][637]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.37:940][638]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.37:965][639]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.37:990][640]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:020][641]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:066][642]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:081][643]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:098][644]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:116][645]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:141][646]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:166][647]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:192][648]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:218][649]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:243][650]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:269][651]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:295][652]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:321][653]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:347][654]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:372][655]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:396][656]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:422][657]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:447][658]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:473][659]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:497][660]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:523][661]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:547][662]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:573][663]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:598][664]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:623][665]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:648][666]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:672][667]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:697][668]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:723][669]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:747][670]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:772][671]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:798][672]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:823][673]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:848][674]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:873][675]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:898][676]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:924][677]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:950][678]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.38:976][679]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:001][680]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:027][681]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:052][682]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:078][683]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:103][684]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:128][685]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:153][686]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:179][687]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:205][688]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:229][689]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:254][690]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:280][691]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:304][692]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:329][693]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:354][694]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:378][695]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:403][696]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:429][697]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:454][698]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:480][699]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:504][700]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:530][701]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:555][702]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:580][703]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:604][704]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:629][705]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:654][706]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:678][707]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:703][708]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:728][709]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:753][710]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:777][711]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:801][712]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:826][713]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:850][714]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:874][715]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:899][716]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:923][717]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:948][718]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:973][719]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.39:998][720]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:022][721]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:048][722]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:073][723]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:097][724]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:123][725]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:148][726]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:172][727]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:197][728]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:223][729]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:247][730]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:272][731]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:297][732]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:321][733]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:347][734]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:372][735]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:396][736]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:422][737]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:449][738]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:474][739]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:499][740]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:524][741]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:549][742]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:574][743]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:599][744]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:624][745]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:649][746]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:674][747]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:699][748]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:723][749]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:749][750]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:774][751]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:800][752]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:824][753]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:850][754]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:875][755]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:899][756]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:924][757]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:949][758]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:974][759]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.40:999][760]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:024][761]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:049][762]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:074][763]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:098][764]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:124][765]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:148][766]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:174][767]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:199][768]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:223][769]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:248][770]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:273][771]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:298][772]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:323][773]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:348][774]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:372][775]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:396][776]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:422][777]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:446][778]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:471][779]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:499][780]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:526][781]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:551][782]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:580][783]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:606][784]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:633][785]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:660][786]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:686][787]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:714][788]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:739][789]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:767][790]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:795][791]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:820][792]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:847][793]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:874][794]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:901][795]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:929][796]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:953][797]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.41:981][798]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:006][799]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:034][800]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:062][801]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:087][802]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:114][803]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:139][804]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:168][805]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:196][806]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:221][807]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:248][808]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:276][809]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:302][810]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:330][811]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:354][812]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:386][813]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:411][814]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:436][815]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:464][816]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:491][817]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:517][818]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:546][819]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:571][820]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:598][821]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:622][822]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:651][823]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:679][824]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:703][825]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:731][826]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:758][827]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:784][828]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:813][829]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:838][830]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:865][831]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:893][832]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:918][833]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:946][834]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:971][835]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.42:998][836]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:025][837]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:051][838]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:078][839]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:103][840]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:130][841]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:156][842]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:184][843]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:211][844]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:236][845]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:263][846]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:294][847]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:319][848]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:347][849]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:371][850]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:399][851]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:426][852]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:452][853]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:481][854]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:516][855]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:529][856]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:554][857]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:579][858]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:603][859]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:629][860]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:654][861]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:679][862]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:705][863]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:729][864]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:753][865]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:779][866]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:804][867]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:829][868]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:854][869]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:878][870]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:905][871]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:930][872]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:955][873]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.43:980][874]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:006][875]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:032][876]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:056][877]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:081][878]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:108][879]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:133][880]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:159][881]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:186][882]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:211][883]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:237][884]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:263][885]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:288][886]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:313][887]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:339][888]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:364][889]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:390][890]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:415][891]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:443][892]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:469][893]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:496][894]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:521][895]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:547][896]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:572][897]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:597][898]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:623][899]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:649][900]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:675][901]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:701][902]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:727][903]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:753][904]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:780][905]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:805][906]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:831][907]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:856][908]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:882][909]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:908][910]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:933][911]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:960][912]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.44:986][913]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:013][914]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:038][915]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:064][916]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:090][917]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:115][918]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:141][919]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:168][920]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:194][921]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:220][922]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:245][923]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:270][924]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:295][925]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:321][926]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:347][927]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:372][928]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:397][929]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:423][930]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:448][931]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:475][932]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:501][933]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:528][934]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:554][935]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:580][936]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:605][937]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:631][938]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:658][939]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:683][940]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:710][941]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:736][942]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:762][943]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:787][944]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:813][945]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:839][946]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:866][947]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:893][948]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:919][949]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:945][950]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:973][951]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.45:998][952]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:024][953]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:050][954]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:077][955]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:102][956]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:129][957]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:155][958]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:181][959]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:207][960]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:232][961]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:258][962]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:285][963]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:311][964]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:336][965]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:363][966]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:388][967]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:415][968]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:444][969]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:471][970]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:497][971]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:523][972]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:549][973]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:575][974]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:601][975]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:627][976]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:654][977]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:679][978]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:706][979]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:734][980]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:759][981]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:786][982]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:812][983]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:838][984]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:865][985]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:891][986]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:918][987]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:944][988]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:970][989]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.46:996][990]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:023][991]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:047][992]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:074][993]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:099][994]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:125][995]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:151][996]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:177][997]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:204][998]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:230][999]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:255][  0]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:282][  1]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:308][  2]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:335][  3]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:360][  4]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:387][  5]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:414][  6]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:440][  7]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:467][  8]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:492][  9]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:518][ 10]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:543][ 11]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:569][ 12]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:595][ 13]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:621][ 14]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:647][ 15]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:673][ 16]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:699][ 17]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:725][ 18]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:752][ 19]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:777][ 20]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:804][ 21]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:830][ 22]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:855][ 23]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:882][ 24]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:907][ 25]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:934][ 26]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:961][ 27]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.47:988][ 28]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:015][ 29]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:041][ 30]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:068][ 31]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:094][ 32]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:121][ 33]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:147][ 34]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:173][ 35]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:200][ 36]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:227][ 37]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:254][ 38]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:281][ 39]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:308][ 40]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:334][ 41]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:361][ 42]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:388][ 43]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:415][ 44]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:442][ 45]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:468][ 46]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:496][ 47]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:521][ 48]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:548][ 49]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:574][ 50]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:601][ 51]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:627][ 52]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:655][ 53]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:682][ 54]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:708][ 55]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:734][ 56]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:761][ 57]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:788][ 58]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:814][ 59]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:839][ 60]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:867][ 61]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:894][ 62]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:920][ 63]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:946][ 64]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.48:973][ 65]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.49:001][ 66]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.20.49:027][ 67]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.33.32:062][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-09.33.32:131][529]Candidate modules for hot reload:
+[2018.11.16-09.33.32:131][529]  SMBClone
+[2018.11.16-09.33.32:131][529]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,2002 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.11.16-09.33.32:145][529]Warning: Starting HotReload took  0.1s.
+[2018.11.16-09.33.50:024][ 95]CompilerResultsLog: New page: Compilation - 16 Nov 2018 09:33:50
+[2018.11.16-09.33.50:025][ 95]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.16-09.33.50:025][ 95]CompilerResultsLog: Parsing headers for SMBCloneEditor
+[2018.11.16-09.33.50:025][ 95]CompilerResultsLog:   Running UnrealHeaderTool "Z:\SMBClone\SMBClone.uproject" "Z:\SMBClone\Intermediate\Build\Win64\SMBCloneEditor\Development\SMBCloneEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.11.16-09.33.50:026][ 95]CompilerResultsLog: Reflection code generated for SMBCloneEditor in 14.2526804 seconds
+[2018.11.16-09.33.50:026][ 95]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.11.16-09.33.50:027][ 95]CompilerResultsLog: CameraRotatingComponent.gen.cpp
+[2018.11.16-09.33.50:027][ 95]CompilerResultsLog: CameraRotatingComponent.cpp
+[2018.11.16-09.33.50:027][ 95]CompilerResultsLog: SMBClone.init.gen.cpp
+[2018.11.16-09.33.50:027][ 95]CompilerResultsLog: Error: Z:\SMBClone\Source\SMBClone\Private\CameraRotatingComponent.cpp(14) : error C2065: 'BallStaticMesh': undeclared identifier
+[2018.11.16-09.33.50:028][ 95]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-2002.dll
+[2018.11.16-09.33.50:028][ 95]CompilerResultsLog: Total build time: 17.55 seconds (Local executor: 0.00 seconds)
+[2018.11.16-09.33.50:029][ 95]LogMainFrame: MainFrame: Module compiling took 17.925 seconds
+[2018.11.16-09.33.50:029][ 95]Warning: HotReload failed, recompile failed
+[2018.11.16-09.34.07:426][601]LogSlate: Window 'Message Log' being destroyed
+[2018.11.16-09.34.07:489][601]LogSlate: Window 'Message Log' being destroyed
+[2018.11.16-09.40.03:769][758]Candidate modules for hot reload:
+[2018.11.16-09.40.03:769][758]  SMBClone
+[2018.11.16-09.40.03:769][758]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,1862 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.11.16-09.40.03:786][758]Warning: Starting HotReload took  0.1s.
+[2018.11.16-09.40.20:683][229]CompilerResultsLog: New page: Compilation - 16 Nov 2018 09:40:20
+[2018.11.16-09.40.20:684][229]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.16-09.40.20:684][229]CompilerResultsLog: Parsing headers for SMBCloneEditor
+[2018.11.16-09.40.20:684][229]CompilerResultsLog:   Running UnrealHeaderTool "Z:\SMBClone\SMBClone.uproject" "Z:\SMBClone\Intermediate\Build\Win64\SMBCloneEditor\Development\SMBCloneEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.11.16-09.40.20:685][229]CompilerResultsLog: Reflection code generated for SMBCloneEditor in 13.5190834 seconds
+[2018.11.16-09.40.20:685][229]CompilerResultsLog: Performing 4 actions (4 in parallel)
+[2018.11.16-09.40.20:686][229]CompilerResultsLog: CameraRotatingComponent.cpp
+[2018.11.16-09.40.20:686][229]CompilerResultsLog: CameraRotatingComponent.gen.cpp
+[2018.11.16-09.40.20:687][229]CompilerResultsLog: Error: Z:\SMBClone\Source\SMBClone\Private\CameraRotatingComponent.cpp(14) : error C2065: 'BallStaticMesh': undeclared identifier
+[2018.11.16-09.40.20:687][229]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-1862.dll
+[2018.11.16-09.40.20:688][229]CompilerResultsLog: Total build time: 16.58 seconds (Local executor: 0.00 seconds)
+[2018.11.16-09.40.20:689][229]LogMainFrame: MainFrame: Module compiling took 16.948 seconds
+[2018.11.16-09.40.20:689][229]Warning: HotReload failed, recompile failed
+[2018.11.16-09.40.28:686][417]LogSlate: Window 'Message Log' being destroyed
+[2018.11.16-09.40.28:749][417]LogSlate: Window 'Message Log' being destroyed
+[2018.11.16-09.40.44:961][532]Candidate modules for hot reload:
+[2018.11.16-09.40.44:962][532]  SMBClone
+[2018.11.16-09.40.44:962][532]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,1665 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.11.16-09.40.44:977][532]Warning: Starting HotReload took  0.1s.
+[2018.11.16-09.41.01:152][939]CompilerResultsLog: New page: Compilation - 16 Nov 2018 09:41:01
+[2018.11.16-09.41.01:153][939]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.16-09.41.01:153][939]CompilerResultsLog: Parsing headers for SMBCloneEditor
+[2018.11.16-09.41.01:153][939]CompilerResultsLog:   Running UnrealHeaderTool "Z:\SMBClone\SMBClone.uproject" "Z:\SMBClone\Intermediate\Build\Win64\SMBCloneEditor\Development\SMBCloneEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.11.16-09.41.01:153][939]CompilerResultsLog: Reflection code generated for SMBCloneEditor in 12.3250231 seconds
+[2018.11.16-09.41.01:153][939]CompilerResultsLog: Performing 4 actions (4 in parallel)
+[2018.11.16-09.41.01:153][939]CompilerResultsLog: CameraRotatingComponent.cpp
+[2018.11.16-09.41.01:154][939]CompilerResultsLog: CameraRotatingComponent.gen.cpp
+[2018.11.16-09.41.01:154][939]CompilerResultsLog: Error: Z:\SMBClone\Source\SMBClone\Private\CameraRotatingComponent.cpp(14) : error C2065: 'BallStaticMesh': undeclared identifier
+[2018.11.16-09.41.01:154][939]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-1665.dll
+[2018.11.16-09.41.01:154][939]CompilerResultsLog: Total build time: 15.82 seconds (Local executor: 0.00 seconds)
+[2018.11.16-09.41.01:154][939]LogMainFrame: MainFrame: Module compiling took 16.208 seconds
+[2018.11.16-09.41.01:154][939]Warning: HotReload failed, recompile failed
+[2018.11.16-09.41.05:992][ 50]LogSlate: Window 'Message Log' being destroyed
+[2018.11.16-09.41.06:049][ 50]LogSlate: Window 'Message Log' being destroyed
+[2018.11.16-09.41.06:737][ 69]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.16-09.41.06:799][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.16-09.41.06:799][ 69]PIE: New page: PIE session: TempLevel (16 Nov 2018 09:41:06)
+[2018.11.16-09.41.06:799][ 69]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TempLevel
+[2018.11.16-09.41.06:801][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001027s)
+[2018.11.16-09.41.06:802][ 69]LogAIModule: Creating AISystem for world TempLevel
+[2018.11.16-09.41.06:802][ 69]LogPlayLevel: PIE: World Init took: (0.001338s)
+[2018.11.16-09.41.06:802][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TempLevel.TempLevel to /Game/UEDPIE_0_TempLevel.TempLevel (0.002864s)
+[2018.11.16-09.41.06:837][ 69]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 128))' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2018.11.16-09.41.06:845][ 69]LogInit: FAudioDevice initialized.
+[2018.11.16-09.41.06:882][ 69]LogLoad: Game class is 'GameModeTemp_C'
+[2018.11.16-09.41.06:883][ 69]LogWorld: Bringing World /Game/UEDPIE_0_TempLevel.TempLevel up for play (max tick rate 60) at 2018.11.16-09.41.06
+[2018.11.16-09.41.06:884][ 69]LogWorld: Bringing up level for play took: 0.000807
+[2018.11.16-09.41.06:886][ 69]PIE: Play in editor start time for /Game/UEDPIE_0_TempLevel -0.861
+[2018.11.16-09.41.06:886][ 69]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.06:919][ 70]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.06:935][ 71]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.06:952][ 72]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.06:981][ 73]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:015][ 74]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:046][ 75]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:080][ 76]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:115][ 77]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:148][ 78]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:182][ 79]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:217][ 80]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:251][ 81]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:284][ 82]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:323][ 83]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:390][ 84]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:406][ 85]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:423][ 86]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:456][ 87]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:489][ 88]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:526][ 89]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:554][ 90]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:591][ 91]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:623][ 92]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:657][ 93]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:692][ 94]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:728][ 95]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:763][ 96]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:797][ 97]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:832][ 98]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:866][ 99]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:899][100]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:927][101]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:961][102]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.07:991][103]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:027][104]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:059][105]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:093][106]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:127][107]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:161][108]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:198][109]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:232][110]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:265][111]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:300][112]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:328][113]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:363][114]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:393][115]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:427][116]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:462][117]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:497][118]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:531][119]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:564][120]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:599][121]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:632][122]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:666][123]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:700][124]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:733][125]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:769][126]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:802][127]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:835][128]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:871][129]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:903][130]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:938][131]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.08:973][132]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:007][133]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:040][134]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:069][135]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:103][136]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:138][137]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:172][138]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:206][139]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:241][140]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:276][141]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:310][142]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:345][143]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:376][144]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:411][145]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:443][146]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:476][147]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:508][148]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:543][149]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:573][150]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:606][151]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:639][152]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:673][153]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:706][154]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:740][155]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:774][156]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:809][157]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:843][158]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:876][159]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:911][160]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:945][161]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.09:978][162]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:011][163]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:047][164]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:081][165]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:113][166]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:147][167]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:181][168]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:215][169]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:248][170]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:282][171]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:318][172]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:352][173]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:387][174]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:421][175]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:456][176]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:490][177]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:524][178]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:557][179]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:591][180]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:625][181]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:659][182]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:694][183]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:727][184]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:760][185]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:796][186]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:829][187]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:864][188]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:898][189]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:932][190]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:966][191]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.10:999][192]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:035][193]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:067][194]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:100][195]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:133][196]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:170][197]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:204][198]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:238][199]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:273][200]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:308][201]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:342][202]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:374][203]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:408][204]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:441][205]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:475][206]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:508][207]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:541][208]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:573][209]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:606][210]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:641][211]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:674][212]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:708][213]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:744][214]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:777][215]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:811][216]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:844][217]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:878][218]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:910][219]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:944][220]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.11:977][221]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:011][222]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:044][223]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:079][224]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:113][225]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:146][226]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:179][227]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:214][228]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:246][229]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:279][230]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:314][231]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:348][232]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:382][233]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:416][234]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:449][235]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:483][236]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:516][237]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:544][238]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:578][239]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:612][240]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:646][241]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:680][242]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:713][243]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:748][244]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:782][245]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:816][246]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:843][247]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:878][248]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:912][249]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:947][250]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.12:981][251]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:012][252]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:047][253]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:075][254]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:108][255]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:140][256]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:173][257]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:207][258]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:239][259]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:273][260]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:307][261]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:335][262]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:370][263]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:403][264]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:437][265]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:470][266]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:505][267]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:538][268]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:573][269]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:606][270]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:640][271]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:671][272]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:705][273]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:733][274]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:770][275]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:799][276]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:832][277]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:860][278]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:894][279]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:922][280]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:956][281]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.13:990][282]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.14:019][283]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.14:054][284]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.14:087][285]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.14:121][286]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.14:155][287]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.14:189][288]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.14:223][289]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.14:255][290]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.14:287][291]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.41.14:322][292]LogTemp: Warning: Velocity = X=0.000 Y=0.000 Z=0.000
+[2018.11.16-09.45.12:658][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-09.45.12:732][ 95]Candidate modules for hot reload:
+[2018.11.16-09.45.12:733][ 95]  SMBClone
+[2018.11.16-09.45.12:733][ 95]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,1856 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.11.16-09.45.12:746][ 95]Warning: Starting HotReload took  0.1s.
+[2018.11.16-09.45.17:070][218]CompilerResultsLog: New page: Compilation - 16 Nov 2018 09:45:17
+[2018.11.16-09.45.17:071][218]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.16-09.45.17:071][218]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.11.16-09.45.17:071][218]CompilerResultsLog: CameraRotatingComponent.cpp
+[2018.11.16-09.45.17:071][218]CompilerResultsLog: [2/3] Link UE4Editor-SMBClone-1856.dll
+[2018.11.16-09.45.17:071][218]CompilerResultsLog: [3/3] Link UE4Editor-SMBClone-1856.lib
+[2018.11.16-09.45.17:072][218]CompilerResultsLog:    Creating library Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-1856.lib and object Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-1856.exp
+[2018.11.16-09.45.17:072][218]CompilerResultsLog:    Creating library Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-1856.suppressed.lib and object Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-1856.suppressed.exp
+[2018.11.16-09.45.17:072][218]CompilerResultsLog: Total build time: 4.00 seconds (Local executor: 2.89 seconds)
+[2018.11.16-09.45.17:072][218]LogMainFrame: MainFrame: Module compiling took 4.367 seconds
+[2018.11.16-09.45.17:142][218]LogClass: Could not find existing class CameraRotatingComponent in package /Script/SMBClone for HotReload, assuming new class
+[2018.11.16-09.45.17:143][218]LogClass: Function Initialise is new.
+[2018.11.16-09.45.17:151][218]LogHotReload: Re-instancing CameraRotatingComponent after hot-reload.
+[2018.11.16-09.45.17:261][218]LogContentBrowser: Native class hierarchy updated for 'SMBClone' in 0.0012 seconds. Added 4 classes and 3 folders.
+[2018.11.16-09.45.17:264][218]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2018.11.16-09.45.17:598][218]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2457 classes and 563 folders.
+[2018.11.16-09.45.17:599][218]Display: HotReload took  4.9s.
+[2018.11.16-09.45.46:801][ 73]LogHttp: Warning: 00000249FDF2CB80: request failed, libcurl error: 35 (SSL connect error)
+[2018.11.16-09.45.46:801][ 73]LogHttp: Warning: 00000249FDF2CB80: libcurl info message cache 0 (Connection 23 seems to be dead!)
+[2018.11.16-09.45.46:802][ 73]LogHttp: Warning: 00000249FDF2CB80: libcurl info message cache 1 (Closing connection 23)
+[2018.11.16-09.45.46:802][ 73]LogHttp: Warning: 00000249FDF2CB80: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.11.16-09.45.46:802][ 73]LogHttp: Warning: 00000249FDF2CB80: libcurl info message cache 3 (  Trying 54.85.53.73...)
+[2018.11.16-09.45.46:802][ 73]LogHttp: Warning: 00000249FDF2CB80: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (54.85.53.73) port 443 (#24))
+[2018.11.16-09.45.46:803][ 73]LogHttp: Warning: 00000249FDF2CB80: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.11.16-09.45.46:803][ 73]LogHttp: Warning: 00000249FDF2CB80: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.11.16-09.45.46:803][ 73]LogHttp: Warning: 00000249FDF2CB80: libcurl info message cache 7 (SSL re-using session ID)
+[2018.11.16-09.45.46:804][ 73]LogHttp: Warning: 00000249FDF2CB80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.11.16-09.45.46:804][ 73]LogHttp: Warning: 00000249FDF2CB80: libcurl info message cache 9 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.11.16-09.45.46:804][ 73]LogHttp: Warning: 00000249FDF2CB80: libcurl info message cache 10 (Closing connection 24)
+[2018.11.16-09.46.35:418][476]Candidate modules for hot reload:
+[2018.11.16-09.46.35:418][476]  SMBClone
+[2018.11.16-09.46.35:419][476]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,6106 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.11.16-09.46.35:434][476]Warning: Starting HotReload took  0.1s.
+[2018.11.16-09.46.37:694][532]CompilerResultsLog: New page: Compilation - 16 Nov 2018 09:46:37
+[2018.11.16-09.46.37:694][532]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.16-09.46.37:695][532]CompilerResultsLog: Target is up to date
+[2018.11.16-09.46.37:695][532]CompilerResultsLog: Total build time: 1.54 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.11.16-09.46.37:696][532]LogMainFrame: MainFrame: Module compiling took 2.305 seconds
+[2018.11.16-09.46.38:192][532]LogContentBrowser: Native class hierarchy populated in 0.0161 seconds. Added 2457 classes and 563 folders.
+[2018.11.16-09.46.38:192][532]Display: HotReload took  2.8s.
+[2018.11.16-09.47.45:314][951]LogRenderer: Reallocating scene render targets to support 892x672 Format 10 NumSamples 1 (Frame:1).
+[2018.11.16-09.48.08:922][261]LogUObjectGlobals: Created PersistentFrame Addr=0x00000249b2257b78, Size=4, Default__SKEL_Ball_BP_C Function /Game/Ball_BP.SKEL_Ball_BP_C:ExecuteUbergraph_Ball_BP
+[2018.11.16-09.48.09:742][302]BlueprintLog: New page: Compile Ball_BP
+[2018.11.16-09.48.09:756][302]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000249b2257b78, Size=4
+[2018.11.16-09.48.09:756][302]LogUObjectGlobals: Created PersistentFrame Addr=0x00000249bc06c900, Size=4, Default__SKEL_Ball_BP_C Function /Engine/Transient.REINST_SKEL_Ball_BP_C_25:ExecuteUbergraph_Ball_BP
+[2018.11.16-09.48.09:768][302]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000249c0308480, Size=392
+[2018.11.16-09.48.09:768][302]LogUObjectGlobals: Created PersistentFrame Addr=0x00000249bce23ac0, Size=392, Default__Ball_BP_C Function /Engine/Transient.REINST_Ball_BP_C_27:ExecuteUbergraph_Ball_BP
+[2018.11.16-09.48.09:772][302]LogUObjectGlobals: Created PersistentFrame Addr=0x00000249bce23580, Size=392, Default__Ball_BP_C Function /Game/Ball_BP.Ball_BP_C:ExecuteUbergraph_Ball_BP
+[2018.11.16-09.48.10:163][302]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000249bc06c900, Size=4
+[2018.11.16-09.48.35:736][463]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000249bce23ac0, Size=392
+[2018.11.16-09.48.35:749][463]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TempLevel' took 0.053
+[2018.11.16-09.48.35:751][463]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ball_BP] ([1] browsable assets)...
+[2018.11.16-09.48.35:793][463]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Ball_BP.Ball_BP]
+[2018.11.16-09.48.35:794][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ball_BP]
+[2018.11.16-09.48.35:794][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ball_BP" FILE="../../../../SMBClone/Saved/Autosaves/Game/Ball_BP_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.11.16-09.48.36:161][463]LogSavePackage: Save=283.02ms
+[2018.11.16-09.48.36:162][463]LogSavePackage: Moving '../../../../SMBClone/Saved/Ball_BP_Auto2A73D7048426FD2E9F023AE88CCF3339E.tmp' to '../../../../SMBClone/Saved/Autosaves/Game/Ball_BP_Auto2.uasset'
+[2018.11.16-09.48.36:167][463]LogSavePackage: Display: Finished SavePackage ../../../../SMBClone/Saved/Autosaves/Game/Ball_BP_Auto2.uasset
+[2018.11.16-09.48.36:168][463]LogFileHelpers: Auto-saving content packages took 0.417
+[2018.11.16-09.51.39:650][272]Candidate modules for hot reload:
+[2018.11.16-09.51.39:651][272]  SMBClone
+[2018.11.16-09.51.39:651][272]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,2296 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.11.16-09.51.39:667][272]Warning: Starting HotReload took  0.1s.
+[2018.11.16-09.51.43:464][305]CompilerResultsLog: New page: Compilation - 16 Nov 2018 09:51:43
+[2018.11.16-09.51.43:464][305]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.16-09.51.43:464][305]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.11.16-09.51.43:465][305]CompilerResultsLog: CameraRotatingComponent.cpp
+[2018.11.16-09.51.43:465][305]CompilerResultsLog: [2/3] Link UE4Editor-SMBClone-2296.dll
+[2018.11.16-09.51.43:465][305]CompilerResultsLog: [3/3] Link UE4Editor-SMBClone-2296.lib
+[2018.11.16-09.51.43:465][305]CompilerResultsLog:    Creating library Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-2296.lib and object Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-2296.exp
+[2018.11.16-09.51.43:465][305]CompilerResultsLog:    Creating library Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-2296.suppressed.lib and object Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-2296.suppressed.exp
+[2018.11.16-09.51.43:466][305]CompilerResultsLog: Total build time: 3.39 seconds (Local executor: 2.34 seconds)
+[2018.11.16-09.51.43:466][305]LogMainFrame: MainFrame: Module compiling took 3.840 seconds
+[2018.11.16-09.51.43:514][305]LogContentBrowser: Native class hierarchy updated for 'SMBClone' in 0.0010 seconds. Added 4 classes and 3 folders.
+[2018.11.16-09.51.43:516][305]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2018.11.16-09.51.43:819][305]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2457 classes and 563 folders.
+[2018.11.16-09.51.43:819][305]Display: HotReload took  4.2s.
+[2018.11.16-09.51.47:102][370]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.16-09.51.47:139][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.16-09.51.47:140][370]PIE: New page: PIE session: TempLevel (16 Nov 2018 09:51:47)
+[2018.11.16-09.51.47:140][370]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TempLevel
+[2018.11.16-09.51.47:141][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001205s)
+[2018.11.16-09.51.47:142][370]LogAIModule: Creating AISystem for world TempLevel
+[2018.11.16-09.51.47:143][370]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2018.11.16-09.51.47:143][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TempLevel.TempLevel to /Game/UEDPIE_0_TempLevel.TempLevel (0.002678s)
+[2018.11.16-09.51.47:218][370]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 128))' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2018.11.16-09.51.47:226][370]LogInit: FAudioDevice initialized.
+[2018.11.16-09.51.47:261][370]LogLoad: Game class is 'GameModeTemp_C'
+[2018.11.16-09.51.47:262][370]LogWorld: Bringing World /Game/UEDPIE_0_TempLevel.TempLevel up for play (max tick rate 60) at 2018.11.16-09.51.47
+[2018.11.16-09.51.47:263][370]LogWorld: Bringing up level for play took: 0.000895
+[2018.11.16-09.51.47:265][370]PIE: Play in editor start time for /Game/UEDPIE_0_TempLevel -0.483

@@ -1,0 +1,3 @@
+Z:\SMBClone\Source\SMBClone\SMBClone.Build.cs
+Z:\SMBClone\Source\SMBClone.Target.cs
+Z:\SMBClone\Source\SMBCloneEditor.Target.cs

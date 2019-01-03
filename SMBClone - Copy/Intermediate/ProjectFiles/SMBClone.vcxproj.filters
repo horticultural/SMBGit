@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\SMBClone.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{79AF95F4-C564-473B-AD71-214F62FF9586}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\SMBClone.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\SMBCloneEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{A3C12E81-81AF-4232-A9D6-A127B5489374}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\SMBClone">
+			<UniqueIdentifier>{8750BAD6-6716-478F-9A69-AA27EF39BC33}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\SMBClone\SMBClone.Build.cs">
+			<Filter>Source\SMBClone</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\SMBClone\SMBClone.cpp">
+			<Filter>Source\SMBClone</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SMBClone\SMBClone.h">
+			<Filter>Source\SMBClone</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SMBClone\SMBCloneGameModeBase.cpp">
+			<Filter>Source\SMBClone</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SMBClone\SMBCloneGameModeBase.h">
+			<Filter>Source\SMBClone</Filter>
+		</ClInclude >
+		<Filter Include="Source\SMBClone\Private">
+			<UniqueIdentifier>{813A92FD-622A-4174-8ACD-AD434F43666F}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\SMBClone\Private\Ball.cpp">
+			<Filter>Source\SMBClone\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\SMBClone\Private\BallMovementComponent.cpp">
+			<Filter>Source\SMBClone\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\SMBClone\Private\Bumper.cpp">
+			<Filter>Source\SMBClone\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\SMBClone\Private\JumpPad.cpp">
+			<Filter>Source\SMBClone\Private</Filter>
+		</ClCompile >
+		<Filter Include="Source\SMBClone\Public">
+			<UniqueIdentifier>{BDFA643D-AF92-478C-A052-95C25AE3C8D1}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\SMBClone\Public\Ball.h">
+			<Filter>Source\SMBClone\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\SMBClone\Public\BallMovementComponent.h">
+			<Filter>Source\SMBClone\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\SMBClone\Public\Bumper.h">
+			<Filter>Source\SMBClone\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\SMBClone\Public\JumpPad.h">
+			<Filter>Source\SMBClone\Public</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

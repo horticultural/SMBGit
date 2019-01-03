@@ -1,0 +1,746 @@
+﻿Log file open, 12/03/18 08:52:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SMBClone
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(141208776) SRandInit(141208776).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.283621
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.146s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../SMBClone/Binaries/Win64/UE4Editor-SMBClone.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-PHNNL2F (192.168.1.4:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: Z:/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.03-08.52.42:771][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.03-08.52.42:771][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.03-08.52.42:795][  0]LogInit: Computer: DESKTOP-PHNNL2F
+[2018.12.03-08.52.42:796][  0]LogInit: User: Jason
+[2018.12.03-08.52.42:796][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.03-08.52.42:796][  0]LogInit: High frequency timer resolution =2.435776 MHz
+[2018.12.03-08.52.42:796][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.03-08.52.42:796][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.03-08.52.42:796][  0]LogMemory: Process Physical Memory: 274.45 MB used, 274.45 MB peak
+[2018.12.03-08.52.42:796][  0]LogMemory: Process Virtual Memory: 264.67 MB used, 264.67 MB peak
+[2018.12.03-08.52.42:796][  0]LogMemory: Physical Memory: 7515.53 MB used,  8744.73 MB free, 16260.26 MB total
+[2018.12.03-08.52.42:796][  0]LogMemory: Virtual Memory: 4790.48 MB used,  8744.73 MB free, 134217728.00 MB total
+[2018.12.03-08.52.42:818][  0]LogInit: Using OS detected language (en-US).
+[2018.12.03-08.52.42:818][  0]LogInit: Using OS detected locale (en-GB).
+[2018.12.03-08.52.42:821][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.03-08.52.43:290][  0]LogStreaming: Display: Took  0.472s to EndInitTextLocalization.
+[2018.12.03-08.52.43:290][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.03-08.52.43:335][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.03-08.52.43:336][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.03-08.52.43:552][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.03-08.52.43:560][  0]LogD3D11RHI:    0. 'Intel(R) Iris(TM) Pro Graphics 5200' (Feature Level 11_0)
+[2018.12.03-08.52.43:560][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.12.03-08.52.43:562][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.03-08.52.43:562][  0]LogD3D11RHI:       0/0/8130 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.03-08.52.43:562][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.03-08.52.43:572][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.03-08.52.43:572][  0]LogD3D11RHI:     GPU DeviceId: 0xd26 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.03-08.52.43:572][  0]LogWindows: EnumDisplayDevices:
+[2018.12.03-08.52.43:572][  0]LogWindows:    0. 'Intel(R) Iris(TM) Pro Graphics 5200' (P:1 D:1)
+[2018.12.03-08.52.43:572][  0]LogWindows:    1. 'Intel(R) Iris(TM) Pro Graphics 5200' (P:0 D:0)
+[2018.12.03-08.52.43:572][  0]LogWindows:    2. 'Intel(R) Iris(TM) Pro Graphics 5200' (P:0 D:0)
+[2018.12.03-08.52.43:573][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.12.03-08.52.43:573][  0]LogD3D11RHI:     Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+[2018.12.03-08.52.43:573][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.12.03-08.52.43:573][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.12.03-08.52.43:573][  0]LogRHI: Texture pool is 795 MB (70% of 1136 MB)
+[2018.12.03-08.52.43:577][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.03-08.52.43:586][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2018.12.03-08.52.43:587][  0]LogShaderCompilers: Guid format shader working directory is 25 characters bigger than the processId version (../../../../SMBClone/Intermediate/Shaders/WorkingDirectory/15308/).
+[2018.12.03-08.52.43:587][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jason/AppData/Local/Temp/UnrealShaderWorkingDir/F33C20A14DB18FD4A680CF921E21BEB7/'.
+[2018.12.03-08.52.43:864][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.03-08.52.43:880][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.03-08.52.43:894][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.03-08.52.43:912][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.03-08.52.43:925][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.03-08.52.43:938][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.03-08.52.43:951][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.03-08.52.43:965][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.03-08.52.43:971][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.03-08.52.43:983][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.12.03-08.52.43:994][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.12.03-08.52.44:006][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.12.03-08.52.44:020][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.12.03-08.52.44:032][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.12.03-08.52.44:043][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.12.03-08.52.44:067][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.12.03-08.52.44:067][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.12.03-08.52.44:080][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-08.52.44:082][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.03-08.52.44:124][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.03-08.52.44:135][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.03-08.52.44:148][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.03-08.52.44:160][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.03-08.52.44:174][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.03-08.52.44:187][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.03-08.52.44:187][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.03-08.52.44:305][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.03-08.52.44:305][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.03-08.52.44:305][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.03-08.52.45:060][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.03-08.52.45:202][  0]LogDerivedDataCache: Loaded boot cache 0.13s 74MB C:/Users/Jason/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.12.03-08.52.45:202][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jason/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.12.03-08.52.45:202][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../SMBClone/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.03-08.52.45:202][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.03-08.52.45:202][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../SMBClone/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.03-08.52.45:202][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.03-08.52.45:218][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.03-08.52.45:231][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jason/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.03-08.52.45:231][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.03-08.52.45:231][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.03-08.52.45:243][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.03-08.52.45:243][  0]LogSlate: Using Freetype 2.6.0
+[2018.12.03-08.52.45:244][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.03-08.52.45:244][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.03-08.52.45:387][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.12.03-08.52.45:703][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.03-08.52.45:866][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.03-08.52.45:869][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.03-08.52.45:869][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.03-08.52.45:869][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.03-08.52.45:869][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.12.03-08.52.45:869][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.12.03-08.52.45:899][  0]LogNetVersion: SMBClone , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 657049582)
+[2018.12.03-08.52.46:443][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.139053 seconds
+[2018.12.03-08.52.46:448][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.12.03-08.52.46:448][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.12.03-08.52.46:448][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.03-08.52.48:107][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.03-08.52.48:139][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.03-08.52.48:527][  0]SourceControl: Source control is disabled
+[2018.12.03-08.52.48:527][  0]SourceControl: Source control is disabled
+[2018.12.03-08.52.48:545][  0]SourceControl: Source control is disabled
+[2018.12.03-08.52.48:562][  0]SourceControl: Source control is disabled
+[2018.12.03-08.52.49:077][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.03-08.52.49:240][  0]LogOcInput: OculusInput pre-init called
+[2018.12.03-08.52.49:354][  0]LogEngine: Initializing Engine...
+[2018.12.03-08.52.49:356][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.03-08.52.49:357][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.03-08.52.49:357][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.03-08.52.49:583][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.03-08.52.49:605][  0]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 128))' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2018.12.03-08.52.49:631][  0]LogInit: FAudioDevice initialized.
+[2018.12.03-08.52.49:762][  0]LogDerivedDataCache: Saved boot cache 0.13s 74MB C:/Users/Jason/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.12.03-08.52.49:784][  0]LogInit: Texture streaming: Enabled
+[2018.12.03-08.52.49:799][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.03-08.52.49:814][  0]LogInit: Transaction tracking system initialized
+[2018.12.03-08.52.49:836][  0]BlueprintLog: New page: Editor Load
+[2018.12.03-08.52.49:918][  0]LocalizationService: Localization service is disabled
+[2018.12.03-08.52.50:020][  0]LogConsoleResponse: Display: 
+[2018.12.03-08.52.50:216][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.03-08.52.50:216][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.03-08.52.50:216][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.03-08.52.50:216][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.03-08.52.50:216][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.03-08.52.50:222][  0]LogFileCache: Scanning file cache for directory 'Z:/SMBClone/Content/' took 0.01s
+[2018.12.03-08.52.50:601][  0]SourceControl: Source control is disabled
+[2018.12.03-08.52.50:710][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.03-08.52.50:712][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.03-08.52.55:727][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2018.12.03-08.52.55:727][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.03-08.52.55:731][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.03-08.52.55:744][  0]Cmd: MAP LOAD FILE="../../../../SMBClone/Content/TempLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.03-08.52.55:745][  0]LightingResults: New page: Lighting Build
+[2018.12.03-08.52.55:749][  0]MapCheck: New page: Map Check
+[2018.12.03-08.52.55:749][  0]LightingResults: New page: Lighting Build
+[2018.12.03-08.52.55:855][  0]LogAIModule: Creating AISystem for world TempLevel
+[2018.12.03-08.52.55:861][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.03-08.52.55:879][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.03-08.52.55:953][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.384ms to complete.
+[2018.12.03-08.52.55:953][  0]LogFileHelpers: Loading map 'TempLevel' took 0.209
+[2018.12.03-08.52.56:043][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_c90_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_7fc_0///####STATCAT_Advanced####
+[2018.12.03-08.52.56:044][  0]LogCollectionManager: Loaded 0 collections in 0.001285 seconds
+[2018.12.03-08.52.56:086][  0]LogFileCache: Scanning file cache for directory 'Z:/SMBClone/Saved/Collections/' took 0.01s
+[2018.12.03-08.52.56:086][  0]LogFileCache: Scanning file cache for directory 'Z:/SMBClone/Content/Developers/Jason/Collections/' took 0.01s
+[2018.12.03-08.52.56:086][  0]LogFileCache: Scanning file cache for directory 'Z:/SMBClone/Content/Collections/' took 0.01s
+[2018.12.03-08.52.56:086][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.03-08.52.56:099][  0]LogContentBrowser: Native class hierarchy populated in 0.0135 seconds. Added 2459 classes and 561 folders.
+[2018.12.03-08.52.56:108][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2018.12.03-08.52.56:162][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.12.03-08.52.56:170][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.12.03-08.52.56:194][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.03-08.52.56:200][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.03-08.52.56:329][  0]LogRenderer: Reallocating scene render targets to support 872x504 Format 10 NumSamples 1 (Frame:1).
+[2018.12.03-08.52.56:681][  0]LogSlate: Took 0.000340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.03-08.52.56:764][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.12.03-08.52.56:764][  0]LogLoad: (Engine Initialization) Total time: 17.20 seconds
+[2018.12.03-08.52.56:764][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.03-08.52.56:800][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.03-08.52.56:850][  1]LogAssetRegistry: Asset discovery search completed in 11.4864 seconds
+[2018.12.03-08.52.56:853][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.03-08.52.56:853][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000087 seconds (updated 0 objects)
+[2018.12.03-08.52.57:948][ 16]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.03-08.53.03:723][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-08.53.20:968][910]LogRenderer: Reallocating scene render targets to support 876x504 Format 10 NumSamples 1 (Frame:573).
+[2018.12.03-08.53.21:038][911]LogRenderer: Reallocating scene render targets to support 912x504 Format 10 NumSamples 1 (Frame:575).
+[2018.12.03-08.53.21:165][912]LogRenderer: Reallocating scene render targets to support 960x504 Format 10 NumSamples 1 (Frame:577).
+[2018.12.03-08.53.21:247][913]LogRenderer: Reallocating scene render targets to support 968x504 Format 10 NumSamples 1 (Frame:579).
+[2018.12.03-08.53.31:499][335]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.12.03-08.53.36:387][432]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 116 classes and 0 folders.
+[2018.12.03-08.53.36:671][432]LogUObjectGlobals: Created PersistentFrame Addr=0x000002af3953ca68, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.12.03-08.53.36:672][432]LogUObjectGlobals: Created PersistentFrame Addr=0x000002af3953ca60, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.12.03-08.53.38:556][464]LogRenderer: Reallocating scene render targets to support 980x656 Format 10 NumSamples 1 (Frame:33).
+[2018.12.03-08.53.38:558][464]LogSlate: Window 'Bumper*' being destroyed
+[2018.12.03-08.53.38:594][465]LogRenderer: Reallocating scene render targets to support 1692x876 Format 10 NumSamples 1 (Frame:874).
+[2018.12.03-08.53.39:219][477]LogSlate: Took 0.000337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.03-08.53.43:501][742]BlueprintLog: New page: Compile Bumper
+[2018.12.03-08.53.48:535][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-08.54.03:882][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-08.54.31:925][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-08.54.31:961][209]BlueprintLog: New page: Compile Bumper
+[2018.12.03-08.54.34:093][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-08.55.20:984][465]BlueprintLog: New page: Compile Bumper
+[2018.12.03-08.55.26:257][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-08.55.37:090][107]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.12.03-08.55.37:090][107]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.12.03-08.55.38:657][217]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.12.03-08.55.38:657][217]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.12.03-08.55.38:659][217]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.12.03-08.55.38:659][217]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.12.03-08.55.39:773][248]BlueprintLog: New page: Compile Bumper
+[2018.12.03-08.55.43:444][307]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-08.55.43:483][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-08.55.43:486][307]PIE: New page: PIE session: TempLevel (3 Dec 2018 08:55:43)
+[2018.12.03-08.55.43:486][307]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TempLevel
+[2018.12.03-08.55.43:491][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004630s)
+[2018.12.03-08.55.43:495][307]LogAIModule: Creating AISystem for world TempLevel
+[2018.12.03-08.55.43:496][307]LogPlayLevel: PIE: World Init took: (0.005055s)
+[2018.12.03-08.55.43:496][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TempLevel.TempLevel to /Game/UEDPIE_0_TempLevel.TempLevel (0.010087s)
+[2018.12.03-08.55.43:530][307]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 128))' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2018.12.03-08.55.43:539][307]LogInit: FAudioDevice initialized.
+[2018.12.03-08.55.43:613][307]LogUObjectGlobals: Created PersistentFrame Addr=0x000002af57dab600, Size=600, Default__Ball_BP_C Function /Game/Ball_BP.Ball_BP_C:ExecuteUbergraph_Ball_BP
+[2018.12.03-08.55.43:622][307]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002af57dab600, Size=600
+[2018.12.03-08.55.43:622][307]LogUObjectGlobals: Created PersistentFrame Addr=0x000002af5844e480, Size=600, Default__Ball_BP_C Function /Engine/Transient.REINST_Ball_BP_C_37:ExecuteUbergraph_Ball_BP
+[2018.12.03-08.55.43:633][307]LogUObjectGlobals: Created PersistentFrame Addr=0x000002af5844f380, Size=600, Default__Ball_BP_C Function /Game/Ball_BP.Ball_BP_C:ExecuteUbergraph_Ball_BP
+[2018.12.03-08.55.43:754][307]LogLoad: Game class is 'GameModeTemp_C'
+[2018.12.03-08.55.43:756][307]LogWorld: Bringing World /Game/UEDPIE_0_TempLevel.TempLevel up for play (max tick rate 0) at 2018.12.03-08.55.43
+[2018.12.03-08.55.43:756][307]LogWorld: Bringing up level for play took: 0.000763
+[2018.12.03-08.55.43:760][307]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2018.12.03-08.55.43:762][307]PIE: Play in editor start time for /Game/UEDPIE_0_TempLevel 0.668
+[2018.12.03-08.55.44:603][319]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002af5844e480, Size=600
+[2018.12.03-08.55.50:122][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-08.55.51:845][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-08.55.51:904][443]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-08.55.51:941][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-08.55.51:941][443]PIE: New page: PIE session: TempLevel (3 Dec 2018 08:55:51)
+[2018.12.03-08.55.51:941][443]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TempLevel
+[2018.12.03-08.55.51:943][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001682s)
+[2018.12.03-08.55.51:944][443]LogAIModule: Creating AISystem for world TempLevel
+[2018.12.03-08.55.51:945][443]LogPlayLevel: PIE: World Init took: (0.001345s)
+[2018.12.03-08.55.51:945][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TempLevel.TempLevel to /Game/UEDPIE_0_TempLevel.TempLevel (0.003297s)
+[2018.12.03-08.55.51:982][443]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 128))' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2018.12.03-08.55.51:989][443]LogInit: FAudioDevice initialized.
+[2018.12.03-08.55.52:023][443]LogLoad: Game class is 'GameModeTemp_C'
+[2018.12.03-08.55.52:024][443]LogWorld: Bringing World /Game/UEDPIE_0_TempLevel.TempLevel up for play (max tick rate 0) at 2018.12.03-08.55.52
+[2018.12.03-08.55.52:027][443]LogWorld: Bringing up level for play took: 0.003593
+[2018.12.03-08.55.52:029][443]PIE: Play in editor start time for /Game/UEDPIE_0_TempLevel 0.936
+[2018.12.03-08.55.55:672][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-08.56.01:324][635]LogEditorTransaction: Undo Modify Component(s)
+[2018.12.03-08.56.02:629][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-08.56.02:703][741]BlueprintLog: New page: Compile Bumper
+[2018.12.03-08.56.07:015][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-08.56.13:775][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-08.56.13:888][926]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-08.56.13:919][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-08.56.13:919][926]PIE: New page: PIE session: TempLevel (3 Dec 2018 08:56:13)
+[2018.12.03-08.56.13:919][926]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TempLevel
+[2018.12.03-08.56.13:920][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001047s)
+[2018.12.03-08.56.13:921][926]LogAIModule: Creating AISystem for world TempLevel
+[2018.12.03-08.56.13:921][926]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2018.12.03-08.56.13:921][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TempLevel.TempLevel to /Game/UEDPIE_0_TempLevel.TempLevel (0.001864s)
+[2018.12.03-08.56.13:952][926]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 128))' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2018.12.03-08.56.13:958][926]LogInit: FAudioDevice initialized.
+[2018.12.03-08.56.13:996][926]LogLoad: Game class is 'GameModeTemp_C'
+[2018.12.03-08.56.13:997][926]LogWorld: Bringing World /Game/UEDPIE_0_TempLevel.TempLevel up for play (max tick rate 0) at 2018.12.03-08.56.13
+[2018.12.03-08.56.13:997][926]LogWorld: Bringing up level for play took: 0.000717
+[2018.12.03-08.56.13:998][926]PIE: Play in editor start time for /Game/UEDPIE_0_TempLevel 0.905
+[2018.12.03-08.56.21:049][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-09.03.22:280][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TempLevel" FILE="../../../../SMBClone/Saved/Autosaves/Game/TempLevel_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.12.03-09.03.22:386][ 33]LogSavePackage: Save=26.34ms
+[2018.12.03-09.03.22:386][ 33]LogSavePackage: Moving '../../../../SMBClone/Saved/TempLevel_Auto1160DB8EF4A68C28803269C9A537CA581.tmp' to '../../../../SMBClone/Saved/Autosaves/Game/TempLevel_Auto1.umap'
+[2018.12.03-09.03.22:388][ 33]LogSavePackage: Display: Finished SavePackage ../../../../SMBClone/Saved/Autosaves/Game/TempLevel_Auto1.umap
+[2018.12.03-09.03.22:399][ 33]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TempLevel' took 0.145
+[2018.12.03-09.03.22:399][ 33]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.145
+[2018.12.03-09.03.22:401][ 33]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bumper] ([1] browsable assets)...
+[2018.12.03-09.03.22:443][ 33]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bumper.Bumper]
+[2018.12.03-09.03.22:443][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bumper]
+[2018.12.03-09.03.22:443][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bumper" FILE="../../../../SMBClone/Saved/Autosaves/Game/Bumper_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.12.03-09.03.22:481][ 33]LogSavePackage: Save=33.07ms
+[2018.12.03-09.03.22:481][ 33]LogSavePackage: Moving '../../../../SMBClone/Saved/Bumper_Auto1537073DC42EF5CD817379392B25A6E35.tmp' to '../../../../SMBClone/Saved/Autosaves/Game/Bumper_Auto1.uasset'
+[2018.12.03-09.03.22:486][ 33]LogSavePackage: Display: Finished SavePackage ../../../../SMBClone/Saved/Autosaves/Game/Bumper_Auto1.uasset
+[2018.12.03-09.03.22:486][ 33]LogFileHelpers: Auto-saving content packages took 0.086
+[2018.12.03-09.03.27:658][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-09.03.27:726][ 71]BlueprintLog: New page: Compile Bumper
+[2018.12.03-09.03.28:547][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bumper" FILE="../../../../SMBClone/Content/Bumper.uasset" SILENT=true
+[2018.12.03-09.03.28:587][ 84]LogSavePackage: Save=33.67ms
+[2018.12.03-09.03.28:587][ 84]LogSavePackage: Moving '../../../../SMBClone/Saved/Bumper016E6610463863A196843FB8C4191877.tmp' to '../../../../SMBClone/Content/Bumper.uasset'
+[2018.12.03-09.03.28:596][ 84]LogSavePackage: Display: Finished SavePackage ../../../../SMBClone/Content/Bumper.uasset
+[2018.12.03-09.03.31:418][117]LogSlate: Window 'Save Content' being destroyed
+[2018.12.03-09.03.31:516][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TempLevel" FILE="../../../../SMBClone/Content/TempLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.03-09.03.31:578][117]LogSavePackage: Save=24.97ms
+[2018.12.03-09.03.31:578][117]LogSavePackage: Moving '../../../../SMBClone/Saved/TempLevelD166C024473B089927A2468BFC5FDE2E.tmp' to '../../../../SMBClone/Content/TempLevel.umap'
+[2018.12.03-09.03.31:588][117]LogSavePackage: Display: Finished SavePackage ../../../../SMBClone/Content/TempLevel.umap
+[2018.12.03-09.03.31:630][117]LogFileHelpers: Saving map 'TempLevel' took 0.181
+[2018.12.03-09.25.11:498][317]BlueprintLog: New page: Compile Bumper
+[2018.12.03-09.25.49:830][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TempLevel" FILE="../../../../SMBClone/Saved/Autosaves/Game/TempLevel_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.12.03-09.25.49:886][711]LogSavePackage: Save=25.79ms
+[2018.12.03-09.25.49:887][711]LogSavePackage: Moving '../../../../SMBClone/Saved/TempLevel_Auto285CD36254511BAC364D400A696072790.tmp' to '../../../../SMBClone/Saved/Autosaves/Game/TempLevel_Auto2.umap'
+[2018.12.03-09.25.49:889][711]LogSavePackage: Display: Finished SavePackage ../../../../SMBClone/Saved/Autosaves/Game/TempLevel_Auto2.umap
+[2018.12.03-09.25.49:894][711]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TempLevel' took 0.084
+[2018.12.03-09.25.49:894][711]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.084
+[2018.12.03-09.25.49:896][711]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bumper] ([1] browsable assets)...
+[2018.12.03-09.25.49:935][711]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bumper.Bumper]
+[2018.12.03-09.25.49:935][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bumper]
+[2018.12.03-09.25.49:935][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bumper" FILE="../../../../SMBClone/Saved/Autosaves/Game/Bumper_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.12.03-09.25.50:000][711]LogSavePackage: Save=38.43ms
+[2018.12.03-09.25.50:000][711]LogSavePackage: Moving '../../../../SMBClone/Saved/Bumper_Auto28B5B713A4FE99AC0CB0088BFF66E7F6C.tmp' to '../../../../SMBClone/Saved/Autosaves/Game/Bumper_Auto2.uasset'
+[2018.12.03-09.25.50:003][711]LogSavePackage: Display: Finished SavePackage ../../../../SMBClone/Saved/Autosaves/Game/Bumper_Auto2.uasset
+[2018.12.03-09.25.50:003][711]LogFileHelpers: Auto-saving content packages took 0.107
+[2018.12.03-09.27.00:589][348]BlueprintLog: New page: Compile Bumper
+[2018.12.03-09.27.27:933][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-09.27.42:851][918]BlueprintLog: New page: Compile Bumper
+[2018.12.03-09.28.58:449][543]LogSlate: Took 0.000629 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.03-09.29.16:307][829]Running Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone Win64 Development -editorrecompile "Z:/SMBClone/SMBClone.uproject" -invalidatemakefilesonly
+[2018.12.03-09.29.16:726][829]Invalidating makefiles only in this run.
+[2018.12.03-09.29.17:054][829]Candidate modules for hot reload:
+[2018.12.03-09.29.17:054][829]  SMBClone
+[2018.12.03-09.29.17:054][829]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,2855 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.12.03-09.29.38:241][829]CompilerResultsLog: New page: Compilation - 3 Dec 2018 09:29:38
+[2018.12.03-09.29.38:241][829]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.12.03-09.29.38:241][829]CompilerResultsLog: Creating makefile for hot reloading SMBClone (no existing makefile)
+[2018.12.03-09.29.38:241][829]CompilerResultsLog: Compiling game modules for hot reload
+[2018.12.03-09.29.38:241][829]CompilerResultsLog: Parsing headers for SMBCloneEditor
+[2018.12.03-09.29.38:241][829]CompilerResultsLog:   Running UnrealHeaderTool "Z:\SMBClone\SMBClone.uproject" "Z:\SMBClone\Intermediate\Build\Win64\SMBCloneEditor\Development\SMBCloneEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.12.03-09.29.38:241][829]CompilerResultsLog: Reflection code generated for SMBCloneEditor in 9.5685793 seconds
+[2018.12.03-09.29.38:241][829]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.12.03-09.29.38:241][829]CompilerResultsLog: Bumper.cpp
+[2018.12.03-09.29.38:241][829]CompilerResultsLog: Bumper.gen.cpp
+[2018.12.03-09.29.38:241][829]CompilerResultsLog: SMBClone.init.gen.cpp
+[2018.12.03-09.29.38:241][829]CompilerResultsLog: [4/5] Link UE4Editor-SMBClone-2855.dll
+[2018.12.03-09.29.38:241][829]CompilerResultsLog: [5/5] Link UE4Editor-SMBClone-2855.lib
+[2018.12.03-09.29.38:241][829]CompilerResultsLog:    Creating library Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-2855.lib and object Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-2855.exp
+[2018.12.03-09.29.38:241][829]CompilerResultsLog:    Creating library Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-2855.suppressed.lib and object Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-2855.suppressed.exp
+[2018.12.03-09.29.38:241][829]CompilerResultsLog: Total build time: 20.90 seconds (Local executor: 2.94 seconds)
+[2018.12.03-09.29.38:241][829]LogMainFrame: MainFrame: Module compiling took 21.199 seconds
+[2018.12.03-09.29.38:299][829]LogClass: Could not find existing class Bumper in package /Script/SMBClone for HotReload, assuming new class
+[2018.12.03-09.29.38:304][829]LogContentBrowser: Native class hierarchy updated for 'SMBClone' in 0.0011 seconds. Added 8 classes and 3 folders.
+[2018.12.03-09.29.38:306][829]Display: HotReload successful (11 functions remapped  0 scriptstructs remapped)
+[2018.12.03-09.29.38:728][829]LogContentBrowser: Native class hierarchy populated in 0.0123 seconds. Added 2461 classes and 563 folders.
+[2018.12.03-09.29.38:728][829]Display: HotReload took 21.9s.
+[2018.12.03-09.29.38:732][829]Warning: HotReload operation took 21.9s.
+[2018.12.03-09.29.39:197][829]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.12.03-09.29.39:209][829]LogHotReload: New module detected: UE4Editor-SMBClone-2855.dll
+[2018.12.03-09.29.39:269][830]LogHotReload: Starting Hot-Reload from IDE
+[2018.12.03-09.29.39:361][830]LogContentBrowser: Native class hierarchy updated for 'SMBClone' in 0.0014 seconds. Added 8 classes and 3 folders.
+[2018.12.03-09.29.39:365][830]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.12.03-09.29.39:715][830]LogContentBrowser: Native class hierarchy populated in 0.0119 seconds. Added 2461 classes and 563 folders.
+[2018.12.03-09.29.39:724][830]Display: HotReload took  0.5s.
+[2018.12.03-09.30.45:420][ 27]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 128))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-09.36.14:520][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TempLevel" FILE="../../../../SMBClone/Saved/Autosaves/Game/TempLevel_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.12.03-09.36.14:570][ 14]LogSavePackage: Save=26.57ms
+[2018.12.03-09.36.14:570][ 14]LogSavePackage: Moving '../../../../SMBClone/Saved/TempLevel_Auto3BEC4F612449AFE5419C59398A7F4751E.tmp' to '../../../../SMBClone/Saved/Autosaves/Game/TempLevel_Auto3.umap'
+[2018.12.03-09.36.14:571][ 14]LogSavePackage: Display: Finished SavePackage ../../../../SMBClone/Saved/Autosaves/Game/TempLevel_Auto3.umap
+[2018.12.03-09.36.14:578][ 14]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TempLevel' took 0.123
+[2018.12.03-09.36.14:578][ 14]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.123
+[2018.12.03-09.36.14:580][ 14]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bumper] ([1] browsable assets)...
+[2018.12.03-09.36.14:640][ 14]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bumper.Bumper]
+[2018.12.03-09.36.14:640][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bumper]
+[2018.12.03-09.36.14:640][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bumper" FILE="../../../../SMBClone/Saved/Autosaves/Game/Bumper_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.12.03-09.36.14:700][ 14]LogSavePackage: Save=34.85ms
+[2018.12.03-09.36.14:700][ 14]LogSavePackage: Moving '../../../../SMBClone/Saved/Bumper_Auto3C34CF5E643C8FFBC1487CEAB532649A8.tmp' to '../../../../SMBClone/Saved/Autosaves/Game/Bumper_Auto3.uasset'
+[2018.12.03-09.36.14:702][ 14]LogSavePackage: Display: Finished SavePackage ../../../../SMBClone/Saved/Autosaves/Game/Bumper_Auto3.uasset
+[2018.12.03-09.36.14:703][ 14]LogFileHelpers: Auto-saving content packages took 0.123
+[2018.12.03-09.45.56:462][775]Candidate modules for hot reload:
+[2018.12.03-09.45.56:462][775]  SMBClone
+[2018.12.03-09.45.56:462][775]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,1885 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.12.03-09.45.56:475][775]Warning: Starting HotReload took  0.1s.
+[2018.12.03-09.46.15:035][162]CompilerResultsLog: New page: Compilation - 3 Dec 2018 09:46:15
+[2018.12.03-09.46.15:035][162]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.12.03-09.46.15:035][162]CompilerResultsLog: Compiling game modules for hot reload
+[2018.12.03-09.46.15:035][162]CompilerResultsLog: Parsing headers for SMBCloneEditor
+[2018.12.03-09.46.15:036][162]CompilerResultsLog:   Running UnrealHeaderTool "Z:\SMBClone\SMBClone.uproject" "Z:\SMBClone\Intermediate\Build\Win64\SMBCloneEditor\Development\SMBCloneEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.12.03-09.46.15:036][162]CompilerResultsLog: Reflection code generated for SMBCloneEditor in 14.8552917 seconds
+[2018.12.03-09.46.15:036][162]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.12.03-09.46.15:036][162]CompilerResultsLog: SMBClone.init.gen.cpp
+[2018.12.03-09.46.15:036][162]CompilerResultsLog: Bumper.gen.cpp
+[2018.12.03-09.46.15:036][162]CompilerResultsLog: Bumper.cpp
+[2018.12.03-09.46.15:036][162]CompilerResultsLog: Error: Z:\SMBClone\Source\SMBClone\Private\Bumper.cpp(17) : error C2027: use of undefined type 'UBoxComponent'
+[2018.12.03-09.46.15:036][162]CompilerResultsLog: Error: Z:\SMBClone\Source\SMBClone\Public\Bumper.h(33) : note: see declaration of 'UBoxComponent'
+[2018.12.03-09.46.15:036][162]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-1885.dll
+[2018.12.03-09.46.15:036][162]CompilerResultsLog: Total build time: 18.17 seconds (Local executor: 0.00 seconds)
+[2018.12.03-09.46.15:036][162]LogMainFrame: MainFrame: Module compiling took 18.589 seconds
+[2018.12.03-09.46.15:036][162]Warning: HotReload failed, recompile failed
+[2018.12.03-09.46.21:412][258]LogSlate: Window 'Message Log' being destroyed
+[2018.12.03-09.46.21:498][258]LogSlate: Window 'Message Log' being destroyed
+[2018.12.03-09.46.35:212][320]Candidate modules for hot reload:
+[2018.12.03-09.46.35:212][320]  SMBClone
+[2018.12.03-09.46.35:213][320]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,7145 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.12.03-09.46.35:228][320]Warning: Starting HotReload took  0.1s.
+[2018.12.03-09.46.47:919][369]CompilerResultsLog: New page: Compilation - 3 Dec 2018 09:46:47
+[2018.12.03-09.46.47:919][369]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.12.03-09.46.47:919][369]CompilerResultsLog: Compiling game modules for hot reload
+[2018.12.03-09.46.47:919][369]CompilerResultsLog: Parsing headers for SMBCloneEditor
+[2018.12.03-09.46.47:919][369]CompilerResultsLog:   Running UnrealHeaderTool "Z:\SMBClone\SMBClone.uproject" "Z:\SMBClone\Intermediate\Build\Win64\SMBCloneEditor\Development\SMBCloneEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.12.03-09.46.47:919][369]CompilerResultsLog: Reflection code generated for SMBCloneEditor in 9.5897767 seconds
+[2018.12.03-09.46.47:919][369]CompilerResultsLog: Performing 4 actions (4 in parallel)
+[2018.12.03-09.46.47:919][369]CompilerResultsLog: Bumper.cpp
+[2018.12.03-09.46.47:919][369]CompilerResultsLog: Bumper.gen.cpp
+[2018.12.03-09.46.47:919][369]CompilerResultsLog: Error: Z:\SMBClone\Source\SMBClone\Private\Bumper.cpp(17) : error C2039: 'SetupAttatchment': is not a member of 'UBoxComponent'
+[2018.12.03-09.46.47:919][369]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime/Engine/Classes/Components/BoxComponent.h(17) : note: see declaration of 'UBoxComponent'
+[2018.12.03-09.46.47:919][369]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-7145.dll
+[2018.12.03-09.46.47:919][369]CompilerResultsLog: Total build time: 12.17 seconds (Local executor: 0.00 seconds)
+[2018.12.03-09.46.47:919][369]LogMainFrame: MainFrame: Module compiling took 12.755 seconds
+[2018.12.03-09.46.47:919][369]Warning: HotReload failed, recompile failed
+[2018.12.03-09.47.09:923][495]LogSlate: Window 'Message Log' being destroyed
+[2018.12.03-09.47.10:006][495]LogSlate: Window 'Message Log' being destroyed
+[2018.12.03-09.48.40:613][799]Candidate modules for hot reload:
+[2018.12.03-09.48.40:614][799]  SMBClone
+[2018.12.03-09.48.40:614][799]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,4802 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.12.03-09.48.40:629][799]Warning: Starting HotReload took  0.1s.
+[2018.12.03-09.48.52:058][854]CompilerResultsLog: New page: Compilation - 3 Dec 2018 09:48:52
+[2018.12.03-09.48.52:058][854]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.12.03-09.48.52:058][854]CompilerResultsLog: Compiling game modules for hot reload
+[2018.12.03-09.48.52:058][854]CompilerResultsLog: Parsing headers for SMBCloneEditor
+[2018.12.03-09.48.52:058][854]CompilerResultsLog:   Running UnrealHeaderTool "Z:\SMBClone\SMBClone.uproject" "Z:\SMBClone\Intermediate\Build\Win64\SMBCloneEditor\Development\SMBCloneEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.12.03-09.48.52:058][854]CompilerResultsLog: Reflection code generated for SMBCloneEditor in 8.7974468 seconds
+[2018.12.03-09.48.52:058][854]CompilerResultsLog: Performing 4 actions (4 in parallel)
+[2018.12.03-09.48.52:058][854]CompilerResultsLog: Bumper.gen.cpp
+[2018.12.03-09.48.52:058][854]CompilerResultsLog: Bumper.cpp
+[2018.12.03-09.48.52:058][854]CompilerResultsLog: Error: Z:\SMBClone\Source\SMBClone\Private\Bumper.cpp(17) : error C2039: 'SetupAttatchment': is not a member of 'UBoxComponent'
+[2018.12.03-09.48.52:058][854]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime/Engine/Classes/Components/BoxComponent.h(17) : note: see declaration of 'UBoxComponent'
+[2018.12.03-09.48.52:058][854]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-4802.dll
+[2018.12.03-09.48.52:058][854]CompilerResultsLog: Total build time: 10.96 seconds (Local executor: 0.00 seconds)
+[2018.12.03-09.48.52:058][854]LogMainFrame: MainFrame: Module compiling took 11.458 seconds
+[2018.12.03-09.48.52:059][854]Warning: HotReload failed, recompile failed
+[2018.12.03-09.49.00:034][949]LogSlate: Window 'Message Log' being destroyed
+[2018.12.03-09.49.00:121][949]LogSlate: Window 'Message Log' being destroyed
+[2018.12.03-09.51.54:982][495]Candidate modules for hot reload:
+[2018.12.03-09.51.54:982][495]  SMBClone
+[2018.12.03-09.51.54:982][495]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,8157 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.12.03-09.51.54:998][495]Warning: Starting HotReload took  0.1s.
+[2018.12.03-09.51.57:308][530]CompilerResultsLog: New page: Compilation - 3 Dec 2018 09:51:57
+[2018.12.03-09.51.57:309][530]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.12.03-09.51.57:309][530]CompilerResultsLog: Compiling game modules for hot reload
+[2018.12.03-09.51.57:309][530]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.12.03-09.51.57:309][530]CompilerResultsLog: Bumper.cpp
+[2018.12.03-09.51.57:309][530]CompilerResultsLog: Error: Z:\SMBClone\Source\SMBClone\Private\Bumper.cpp(17) : error C2039: 'SetupAttatchment': is not a member of 'UBoxComponent'
+[2018.12.03-09.51.57:309][530]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime/Engine/Classes/Components/BoxComponent.h(17) : note: see declaration of 'UBoxComponent'
+[2018.12.03-09.51.57:309][530]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-8157.dll
+[2018.12.03-09.51.57:309][530]CompilerResultsLog: Total build time: 1.98 seconds (Local executor: 0.00 seconds)
+[2018.12.03-09.51.57:309][530]LogMainFrame: MainFrame: Module compiling took 2.378 seconds
+[2018.12.03-09.51.57:309][530]Warning: HotReload failed, recompile failed
+[2018.12.03-09.52.02:363][598]LogSlate: Window 'Message Log' being destroyed
+[2018.12.03-09.52.02:445][598]LogSlate: Window 'Message Log' being destroyed
+[2018.12.03-09.54.15:937][ 22]Candidate modules for hot reload:
+[2018.12.03-09.54.15:937][ 22]  SMBClone
+[2018.12.03-09.54.15:938][ 22]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,3880 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.12.03-09.54.15:953][ 22]Warning: Starting HotReload took  0.1s.
+[2018.12.03-09.54.19:842][ 47]CompilerResultsLog: New page: Compilation - 3 Dec 2018 09:54:19
+[2018.12.03-09.54.19:842][ 47]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.12.03-09.54.19:842][ 47]CompilerResultsLog: Compiling game modules for hot reload
+[2018.12.03-09.54.19:842][ 47]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.12.03-09.54.19:842][ 47]CompilerResultsLog: Bumper.cpp
+[2018.12.03-09.54.19:843][ 47]CompilerResultsLog: Error: Z:\SMBClone\Source\SMBClone\Private\Bumper.cpp(17) : warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2018.12.03-09.54.19:843][ 47]CompilerResultsLog: Error: Z:\UE_4.19\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h(641) : note: see declaration of 'USceneComponent::AttachTo'
+[2018.12.03-09.54.19:843][ 47]CompilerResultsLog: [2/3] Link UE4Editor-SMBClone-3880.dll
+[2018.12.03-09.54.19:843][ 47]CompilerResultsLog: [3/3] Link UE4Editor-SMBClone-3880.lib
+[2018.12.03-09.54.19:843][ 47]CompilerResultsLog:    Creating library Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-3880.lib and object Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-3880.exp
+[2018.12.03-09.54.19:843][ 47]CompilerResultsLog:    Creating library Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-3880.suppressed.lib and object Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-3880.suppressed.exp
+[2018.12.03-09.54.19:843][ 47]CompilerResultsLog: Error: Bumper.cpp.obj : error LNK2019: unresolved external symbol "public: void __cdecl ABumper::OnCompHit(class UPrimitiveComponent *,class AActor *,class UPrimitiveComponent *,struct FVector,struct FHitResult const &)" (?OnCompHit@ABumper@@QEAAXPEAVUPrimitiveComponent@@PEAVAActor@@0UFVector@@AEBUFHitResult@@@Z) referenced in function "public: static void __cdecl ABumper::execOnCompHit(class UObject *,struct FFrame &,void * const)" (?execOnCompHit@ABumper@@SAXPEAVUObject@@AEAUFFrame@@QEAX@Z)
+[2018.12.03-09.54.19:843][ 47]CompilerResultsLog: Error: Bumper.gen.cpp.obj : error LNK2001: unresolved external symbol "public: void __cdecl ABumper::OnCompHit(class UPrimitiveComponent *,class AActor *,class UPrimitiveComponent *,struct FVector,struct FHitResult const &)" (?OnCompHit@ABumper@@QEAAXPEAVUPrimitiveComponent@@PEAVAActor@@0UFVector@@AEBUFHitResult@@@Z)
+[2018.12.03-09.54.19:843][ 47]CompilerResultsLog: Error: Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-3880.dll : fatal error LNK1120: 1 unresolved externals
+[2018.12.03-09.54.19:843][ 47]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-3880.dll
+[2018.12.03-09.54.19:843][ 47]CompilerResultsLog: Total build time: 3.44 seconds (Local executor: 0.00 seconds)
+[2018.12.03-09.54.19:843][ 47]LogMainFrame: MainFrame: Module compiling took 3.956 seconds
+[2018.12.03-09.54.19:843][ 47]Warning: HotReload failed, recompile failed
+[2018.12.03-09.56.33:452][587]LogSlate: Window 'Message Log' being destroyed
+[2018.12.03-09.56.34:420][602]Candidate modules for hot reload:
+[2018.12.03-09.56.34:420][602]  SMBClone
+[2018.12.03-09.56.34:421][602]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,9108 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.12.03-09.56.34:434][602]Warning: Starting HotReload took  0.1s.
+[2018.12.03-09.56.38:190][627]CompilerResultsLog: New page: Compilation - 3 Dec 2018 09:56:38
+[2018.12.03-09.56.38:190][627]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.12.03-09.56.38:190][627]CompilerResultsLog: Compiling game modules for hot reload
+[2018.12.03-09.56.38:190][627]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.12.03-09.56.38:190][627]CompilerResultsLog: Bumper.cpp
+[2018.12.03-09.56.38:190][627]CompilerResultsLog: [2/3] Link UE4Editor-SMBClone-9108.dll
+[2018.12.03-09.56.38:190][627]CompilerResultsLog: [3/3] Link UE4Editor-SMBClone-9108.lib
+[2018.12.03-09.56.38:190][627]CompilerResultsLog:    Creating library Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-9108.lib and object Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-9108.exp
+[2018.12.03-09.56.38:190][627]CompilerResultsLog:    Creating library Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-9108.suppressed.lib and object Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-9108.suppressed.exp
+[2018.12.03-09.56.38:190][627]CompilerResultsLog: Error: Bumper.cpp.obj : error LNK2019: unresolved external symbol "public: void __cdecl ABumper::OnCompHit(class UPrimitiveComponent *,class AActor *,class UPrimitiveComponent *,struct FVector,struct FHitResult const &)" (?OnCompHit@ABumper@@QEAAXPEAVUPrimitiveComponent@@PEAVAActor@@0UFVector@@AEBUFHitResult@@@Z) referenced in function "public: static void __cdecl ABumper::execOnCompHit(class UObject *,struct FFrame &,void * const)" (?execOnCompHit@ABumper@@SAXPEAVUObject@@AEAUFFrame@@QEAX@Z)
+[2018.12.03-09.56.38:190][627]CompilerResultsLog: Error: Bumper.gen.cpp.obj : error LNK2001: unresolved external symbol "public: void __cdecl ABumper::OnCompHit(class UPrimitiveComponent *,class AActor *,class UPrimitiveComponent *,struct FVector,struct FHitResult const &)" (?OnCompHit@ABumper@@QEAAXPEAVUPrimitiveComponent@@PEAVAActor@@0UFVector@@AEBUFHitResult@@@Z)
+[2018.12.03-09.56.38:190][627]CompilerResultsLog: Error: Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-9108.dll : fatal error LNK1120: 1 unresolved externals
+[2018.12.03-09.56.38:190][627]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: Z:\SMBClone\Binaries\Win64\UE4Editor-SMBClone-9108.dll
+[2018.12.03-09.56.38:190][627]CompilerResultsLog: Total build time: 3.43 seconds (Local executor: 0.00 seconds)
+[2018.12.03-09.56.38:190][627]LogMainFrame: MainFrame: Module compiling took 3.824 seconds
+[2018.12.03-09.56.38:191][627]Warning: HotReload failed, recompile failed
+[2018.12.03-09.56.49:809][780]LogSlate: Window 'Message Log' being destroyed
+[2018.12.03-09.56.49:895][780]LogSlate: Window 'Message Log' being destroyed
+[2018.12.03-09.56.57:361][818]Candidate modules for hot reload:
+[2018.12.03-09.56.57:361][818]  SMBClone
+[2018.12.03-09.56.57:361][818]Launching UnrealBuildTool... [Z:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SMBClone -ModuleWithSuffix=SMBClone,9944 Win64 Development -editorrecompile -canskiplink "Z:/SMBClone/SMBClone.uproject" ]
+[2018.12.03-09.56.57:373][818]Warning: Starting HotReload took  0.1s.
+[2018.12.03-09.57.11:161][870]CompilerResultsLog: New page: Compilation - 3 Dec 2018 09:57:11
+[2018.12.03-09.57.11:161][870]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.12.03-09.57.11:161][870]CompilerResultsLog: Compiling game modules for hot reload
+[2018.12.03-09.57.11:161][870]CompilerResultsLog: Parsing headers for SMBCloneEditor
+[2018.12.03-09.57.11:161][870]CompilerResultsLog:   Running UnrealHeaderTool "Z:\SMBClone\SMBClone.uproject" "Z:\SMBClone\Intermediate\Build\Win64\SMBCloneEditor\Development\SMBCloneEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.12.03-09.57.11:161][870]CompilerResultsLog: Reflection code generated for SMBCloneEditor in 9.6360564 seconds
+[2018.12.03-09.57.11:161][870]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.12.03-09.57.11:161][870]CompilerResultsLog: Bumper.gen.cpp
+[2018.12.03-09.57.11:161][870]CompilerResultsLog: Bumper.cpp
+[2018.12.03-09.57.11:161][870]CompilerResultsLog: SMBClone.init.gen.cpp
+[2018.12.03-09.57.11:161][870]CompilerResultsLog: [4/5] Link UE4Editor-SMBClone-9944.dll
+[2018.12.03-09.57.11:161][870]CompilerResultsLog: [5/5] Link UE4Editor-SMBClone-9944.lib
+[2018.12.03-09.57.11:161][870]CompilerResultsLog:    Creating library Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-9944.lib and object Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-9944.exp
+[2018.12.03-09.57.11:161][870]CompilerResultsLog:    Creating library Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-9944.suppressed.lib and object Z:\SMBClone\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SMBClone-9944.suppressed.exp
+[2018.12.03-09.57.11:161][870]CompilerResultsLog: Total build time: 13.32 seconds (Local executor: 2.44 seconds)
+[2018.12.03-09.57.11:161][870]LogMainFrame: MainFrame: Module compiling took 13.831 seconds
+[2018.12.03-09.57.11:217][870]LogClass: Could not find existing class Bumper in package /Script/SMBClone for HotReload, assuming new class
+[2018.12.03-09.57.11:891][870]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.667 s
+[2018.12.03-09.57.11:891][870]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.03-09.57.11:891][870]LogOutputDevice: Error: 
+[2018.12.03-09.57.11:891][870]LogOutputDevice: Error: Ensure condition failed: AttachmentRules.LocationRule == EAttachmentRule::KeepRelative && AttachmentRules.RotationRule == EAttachmentRule::KeepRelative && AttachmentRules.ScaleRule == EAttachmentRule::KeepRelative [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Engine\Private\Components\SceneComponent.cpp] [Line: 1678]
+[2018.12.03-09.57.11:891][870]LogOutputDevice: Error: AttachToComponent when called from a constructor is only setting up attachment and will always be treated as KeepRelative. Consider calling SetupAttachment directly instead.
+[2018.12.03-09.57.11:891][870]LogOutputDevice: Error: Stack: 
+[2018.12.03-09.57.11:891][870]LogOutputDevice: Error: [Callstack] 0x00000000DF28B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.03-09.57.11:891][870]LogOutputDevice: Error: [Callstack] 0x00000000DEFEAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.12.03-09.57.11:891][870]LogOutputDevice: Error: [Callstack] 0x00000000DEFFECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.03-09.57.11:891][870]LogOutputDevice: Error: [Callstack] 0x00000000C2FAE0F8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.03-09.57.11:891][870]LogOutputDevice: Error: [Callstack] 0x00000000E94941EC UE4Editor-SMBClone-9944.dll!ABumper::ABumper() [z:\smbclone\source\smbclone\private\bumper.cpp:17]
+[2018.12.03-09.57.11:891][870]LogOutputDevice: Error: [Callstack] 0x00000000D87A54F8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.03-09.57.11:891][870]LogOutputDevice: Error: [Callstack] 0x00000000D8A37D30 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.03-09.57.11:891][870]LogOutputDevice: Error: [Callstack] 0x00000000D8A194A2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.03-09.57.11:891][870]LogOutputDevice: Error: [Callstack] 0x00000000D87AA7F7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.03-09.57.11:891][870]LogOutputDevice: Error: [Callstack] 0x00000000DEE94190 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.03-09.57.11:891][870]LogOutputDevice: Error: [Callstack] 0x00000000DF0A5E91 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.03-09.57.11:891][870]LogOutputDevice: Error: [Callstack] 0x00000000DF0A5207 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.03-09.57.11:891][870]LogOutputDevice: Error: [Callstack] 0x00000000A6D0317C UE4Editor-HotReload.dll!UnknownFunction []
+[2018.12.03-09.57.11:891][870]LogOutputDevice: Error: [Callstack] 0x00000000A6D00677 UE4Editor-HotReload.dll!UnknownFunction []
+[2018.12.03-09.57.11:891][870]LogOutputDevice: Error: [Callstack] 0x00000000A6D01040 UE4Editor-HotReload.dll!UnknownFunction []
+[2018.12.03-09.57.11:891][870]LogOutputDevice: Error: [Callstack] 0x00000000A6D13BEE UE4Editor-HotReload.dll!UnknownFunction []
+[2018.12.03-09.57.11:892][870]LogOutputDevice: Error: [Callstack] 0x00000000DEEDB646 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.03-09.57.11:892][870]LogOutputDevice: Error: [Callstack] 0x00000000F95A8503 UE4Editor.exe!UnknownFunction []
+[2018.12.03-09.57.11:892][870]LogOutputDevice: Error: [Callstack] 0x00000000F95B6BD0 UE4Editor.exe!UnknownFunction []
+[2018.12.03-09.57.11:892][870]LogOutputDevice: Error: [Callstack] 0x00000000F95B6C4A UE4Editor.exe!UnknownFunction []
+[2018.12.03-09.57.11:892][870]LogOutputDevice: Error: [Callstack] 0x00000000F95C4177 UE4Editor.exe!UnknownFunction []
+[2018.12.03-09.57.11:892][870]LogOutputDevice: Error: [Callstack] 0x00000000F95C5B87 UE4Editor.exe!UnknownFunction []
+[2018.12.03-09.57.11:892][870]LogOutputDevice: Error: [Callstack] 0x00000000EFD43034 KERNEL32.DLL!UnknownFunction []
+[2018.12.03-09.57.11:892][870]LogOutputDevice: Error: [Callstack] 0x00000000F20F1471 ntdll.dll!UnknownFunction []
+[2018.12.03-09.57.11:892][870]LogOutputDevice: Error: 
+[2018.12.03-09.57.11:893][870]LogStats:                SubmitErrorReport -  0.000 s
